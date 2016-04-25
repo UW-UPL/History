@@ -41,3 +41,5 @@ with open('./who.markdown', 'w') as markdown_file:
       coord_emoji, user['jobs'], user['link'], user['misc'])
 
     markdown_file.write(row_entry)
+
+  markdown_file.write('\n\n')

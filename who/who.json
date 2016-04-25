@@ -1,32 +1,4 @@
 {
   "who": [
-    {
-      "name": "Doctor Frankenstein",
-      "username": "frankenstein",
-      "start": "Fall 1900",
-      "end": "Spring 1904",
-      "coord": true,
-      "link": "http://example.com",
-      "jobs": "Doctor, Mad Scientist, NetScape",
-      "misc": "Created a monster"
-    }, {
-      "name": "Count Dracula",
-      "username": "bloodsucker",
-      "start": "Fall 1901",
-      "end": "Fall 1902",
-      "coord": false,
-      "link": "http://wisc.edu",
-      "jobs": "Count, Vampire, Sun Microsystems",
-      "misc": ""
-    }, {
-      "name": "Leo Rudberg",
-      "username": "leo",
-      "start": "Fall 2013",
-      "end": "Spring 2016",
-      "coord": true,
-      "link": "https://github.com/LOZORD/me",
-      "jobs": "WMS, Paradrop, Exis, Intuit, Google",
-      "misc": ":sunglasses:"
-    }
   ]
 }
