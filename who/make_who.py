@@ -1,7 +1,8 @@
-#!/usr/bin/python3
+#!/usr/bin/env python
 
 import json
 
+# first open the input file for reading
 with open('./who.json', 'r') as who_file:
   # first load the data
   json_data = json.load(who_file)
@@ -13,10 +14,10 @@ with open('./who.json', 'r') as who_file:
   by_start_date  = lambda user: user['start']
   by_username    = lambda user: user['username']
 
-  # sorted_data = sorted((sorted(json_data, key=by_start_date), key=by_username)
   sorted_data = sorted(who_data, key=by_username)
   sorted_data = sorted(sorted_data, key=by_start_date)
 
+# now open the output file for writing
 with open('./who.markdown', 'w') as markdown_file:
   table_header  = '| Username | Name | Start | End | Coord? | Jobs | Link | Misc. |\n'
   table_header += '| ---------|------|-------|-----|--------|------|------|------ |\n'
@@ -26,11 +27,15 @@ with open('./who.markdown', 'w') as markdown_file:
   markdown_file.write(table_header)
 
   for user in sorted_data:
+
+    # first set the emoji for the coord status
+    # emojis are supported assuming this is put on GitHub via GFM
     coord_emoji = None
     if user['coord']:
       coord_emoji = ':white_check_mark:'
     else:
       coord_emoji = ':x:'
+
     row_entry = '\n| `%s` | %s | %s | %s | %s | %s | %s | %s |'
     row_entry %= (user['username'], user['name'], user['start'], user['end'],
       coord_emoji, user['jobs'], user['link'], user['misc'])
