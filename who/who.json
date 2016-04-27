@@ -1,4 +1,132 @@
 {
   "who": [
+    {
+      "name": "Mark McUllough",
+      "username": "adept",
+      "start": "Fall 1995",
+      "end": "Fall 1995",
+      "coord": true
+    }, {
+      "name": "Aaron Teche",
+      "username": "adt",
+      "start": "Spring 1997",
+      "end": "Summer 1998",
+      "coord": true,
+      "jobs": "Systems Programmer @ UW Biostatistics"
+    }, {
+      "name": "Alyska Bailey",
+      "username": "alyska",
+      "start": "Fall 2000",
+      "end": "Spring 2002",
+      "coord": true,
+      "jobs": "Multimediatrix, Wisconsin Alumni Association, PointyKitty Studios"
+    }, {
+      "name": "Karen (Powers) Wooten",
+      "username": "alp",
+      "start": "???",
+      "end": "Spring 1992",
+      "coord": true,
+      "jobs": "Resident Physician @ University of Washington"
+    }, {
+      "name": "Alex Mohr",
+      "username": "amohr",
+      "start": "Fall 1999",
+      "end": "Spring 2001",
+      "coord": true,
+      "jobs": "Pixar"
+    }, {
+      "name": "Anthony Magro",
+      "username": "anthony",
+      "start": "???",
+      "end": "???",
+      "coord": true
+    }, {
+      "name": "Andy Selle",
+      "username": "aselle",
+      "start": "Fall 2000",
+      "end": "Spring 2003",
+      "coord": true,
+      "jobs": "PhD @ Stanford"
+    }, {
+      "name": "John Bethencourt",
+      "username": "bethenco",
+      "start": "???",
+      "end": "???",
+      "coord": true,
+      "jobs": "PhD @ CMU"
+    }, {
+      "name": "Bret Martin",
+      "username": "bmartin",
+      "start": "Fall 2001",
+      "end": "Spring 2003",
+      "coord": true,
+      "jobs": "Grad student @ UW-Madison"
+    }, {
+      "name": "Brenda Muller",
+      "username": "bmuller",
+      "start": "???",
+      "end": "May 1990",
+      "coord": true
+    }, {
+      "name": "Alan Desmet",
+      "username": "chaos",
+      "start": "Fall 1996",
+      "end": "Spring 1997",
+      "coord": true,
+      "jobs": "Programmer @ HTCondor"
+    }, {
+      "name": "Casey Harkins",
+      "username": "charkins",
+      "start": "Fall 1999",
+      "coord": true
+    }, {
+      "name": "Chris Olson",
+      "username": "colson",
+      "coord": true,
+      "jobs": "Tech Programmer @ Stolen Notebook LLC"
+    }, {
+      "name": "Michelle Craft",
+      "username": "craft",
+      "start": "Fall 1998",
+      "end": "Fall 1999",
+      "coord": true,
+      "jobs": "Programmer @ UW CS, Law Student"
+    }, {
+      "name": "Chris Schulze",
+      "username": "csch",
+      "end": "Spring 1993",
+      "coord": true
+    }, {
+      "username": "dac",
+      "name": "Dave Carley",
+      "start": "Spring 1994",
+      "end": "Spring 1997",
+      "coord": true,
+      "jobs": "Software Engineer @ Corel Corp"
+    }, {
+      "username": "dsb",
+      "name": "Dave Blumenthal",
+      "start": "Summer 1993",
+      "end": "Summer 1994",
+      "jobs": "Solidworks Corporation",
+      "coord": true
+    }, {
+      "username": "dturner",
+      "name": "Dave Turner",
+      "coord": true,
+      "jobs": "Navy, Nuclear Power"
+    }, {
+      "username": "dynerman",
+      "name": "David Dynerman",
+      "coord": true,
+      "jobs": "Programmer @ Raven"
+    }, {
+      "username": "ender",
+      "name": "Sam Williams",
+      "coord": true,
+      "start": "Fall 1997",
+      "end": "Spring 1999",
+      "jobs": "Developer @ Microsoft"
+    }
   ]
 }
