@@ -84,7 +84,7 @@
       "name": "Chris Olson",
       "username": "colson",
       "coord": true,
-      "jobs": "Tech Programmer @ Stolen Notebook LLC"
+      "jobs": "Senior Software Engineer @ Raven Software, Tech Programmer @ Stolen Notebook LLC"
     }, {
       "name": "Michelle Craft",
       "username": "craft",
@@ -120,7 +120,7 @@
       "username": "dynerman",
       "name": "David Dynerman",
       "coord": true,
-      "jobs": "Programmer @ Raven"
+      "jobs": "Raven Software"
     }
   ]
 }
