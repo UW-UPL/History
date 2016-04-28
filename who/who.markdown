@@ -20,4 +20,5 @@
 | `dturner` | Dave Turner | ??? | ??? | :white_check_mark: | Navy, Nuclear Power |  |  |
 | `dynerman` | David Dynerman | ??? | ??? | :white_check_mark: | Raven Software |  |  |
 | `ender` | Sam Williams | Fall 1997 | Spring 1999 | :white_check_mark: | Developer @ Microsoft |  |  |
+| `leo` | Leo Rudberg | Fall 2012 | Spring 2016 | :white_check_mark: | WMS, WiNGS Lab/Paradrop, Exis, Intuit, Google | https://github.com/LOZORD/me |  |
 
