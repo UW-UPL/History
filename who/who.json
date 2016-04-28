@@ -128,6 +128,14 @@
       "start": "Fall 1997",
       "end": "Spring 1999",
       "jobs": "Developer @ Microsoft"
+    }, {
+      "username": "leo",
+      "name": "Leo Rudberg",
+      "coord": true,
+      "start": "Fall 2012",
+      "end": "Spring 2016",
+      "link": "https://github.com/LOZORD/me",
+      "jobs": "WMS, WiNGS Lab/Paradrop, Exis, Intuit, Google"
     }
   ]
 }
