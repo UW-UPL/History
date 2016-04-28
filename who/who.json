@@ -39,7 +39,8 @@
       "username": "anthony",
       "start": "???",
       "end": "???",
-      "coord": true
+      "coord": true,
+      "jobs": "Raven Software"
     }, {
       "name": "Andy Selle",
       "username": "aselle",
