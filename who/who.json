@@ -138,22 +138,23 @@
       "jobs": "WMS, WiNGS Lab/Paradrop, Exis, Intuit, Google"
     }, {
         "username": "epaulson",
-        "name": "erik paulson",
-        "start": "fall 1996 - may 2001",
+        "name": "Erik Paulson",
+        "start": "Fall 1996",
+        "end": "Spring 2001",
         "jobs": "Developer, Condor Project Grad Student, UW-Madison",
         "coord": true
-    },
-    {
+    }, {
         "username": "felix",
-        "name": "erik jacobsen",
-        "start": "fall 1994 - spring 1996",
+        "name": "Erik Jacobsen",
+        "start": "Fall 1994",
+        "end": "Spring 1996",
         "jobs": "Software Engineer, Power Line Systems",
         "coord": true
-    },
-    {
+    }, {
         "username": "garret",
-        "name": "garret magin",
-        "start": "spring 2001 - may 2005",
+        "name": "Garret Magin",
+        "start": "Spring 2001",
+        "end": "May 2005",
         "jobs": "Software Engineer, Microsoft",
         "coord": true
     },
