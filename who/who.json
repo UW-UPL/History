@@ -1,743 +1,1074 @@
 {
-  "who": [
-    {
-      "name": "Mark McUllough",
-      "username": "adept",
-      "start": "Fall 1995",
-      "end": "Fall 1995",
-      "coord": true
-    }, {
-      "name": "Aaron Teche",
-      "username": "adt",
-      "start": "Spring 1997",
-      "end": "Summer 1998",
-      "coord": true,
-      "jobs": "Systems Programmer @ UW Biostatistics"
-    }, {
-      "name": "Alyska Bailey",
-      "username": "alyska",
-      "start": "Fall 2000",
-      "end": "Spring 2002",
-      "coord": true,
-      "jobs": "Multimediatrix, Wisconsin Alumni Association, PointyKitty Studios"
-    }, {
-      "name": "Karen (Powers) Wooten",
-      "username": "alp",
-      "start": "???",
-      "end": "Spring 1992",
-      "coord": true,
-      "jobs": "Resident Physician @ University of Washington"
-    }, {
-      "name": "Alex Mohr",
-      "username": "amohr",
-      "start": "Fall 1999",
-      "end": "Spring 2001",
-      "coord": true,
-      "jobs": "Pixar"
-    }, {
-      "name": "Anthony Magro",
-      "username": "anthony",
-      "start": "???",
-      "end": "???",
-      "coord": true,
-      "jobs": "Raven Software"
-    }, {
-      "name": "Andy Selle",
-      "username": "aselle",
-      "start": "Fall 2000",
-      "end": "Spring 2003",
-      "coord": true,
-      "jobs": "PhD @ Stanford"
-    }, {
-      "name": "John Bethencourt",
-      "username": "bethenco",
-      "start": "???",
-      "end": "???",
-      "coord": true,
-      "jobs": "PhD @ CMU"
-    }, {
-      "name": "Bret Martin",
-      "username": "bmartin",
-      "start": "Fall 2001",
-      "end": "Spring 2003",
-      "coord": true,
-      "jobs": "Grad student @ UW-Madison"
-    }, {
-      "name": "Brenda Muller",
-      "username": "bmuller",
-      "start": "???",
-      "end": "May 1990",
-      "coord": true
-    }, {
-      "name": "Alan Desmet",
-      "username": "chaos",
-      "start": "Fall 1996",
-      "end": "Spring 1997",
-      "coord": true,
-      "jobs": "Programmer @ HTCondor"
-    }, {
-      "name": "Casey Harkins",
-      "username": "charkins",
-      "start": "Fall 1999",
-      "coord": true
-    }, {
-      "name": "Chris Olson",
-      "username": "colson",
-      "coord": true,
-      "jobs": "Senior Software Engineer @ Raven Software, Tech Programmer @ Stolen Notebook LLC"
-    }, {
-      "name": "Michelle Craft",
-      "username": "craft",
-      "start": "Fall 1998",
-      "end": "Fall 1999",
-      "coord": true,
-      "jobs": "Programmer @ UW CS, Law Student"
-    }, {
-      "name": "Chris Schulze",
-      "username": "csch",
-      "end": "Spring 1993",
-      "coord": true
-    }, {
-      "username": "dac",
-      "name": "Dave Carley",
-      "start": "Spring 1994",
-      "end": "Spring 1997",
-      "coord": true,
-      "jobs": "Software Engineer @ Corel Corp"
-    }, {
-      "username": "dsb",
-      "name": "Dave Blumenthal",
-      "start": "Summer 1993",
-      "end": "Summer 1994",
-      "jobs": "Solidworks Corporation",
-      "coord": true
-    }, {
-      "username": "dturner",
-      "name": "Dave Turner",
-      "coord": true,
-      "jobs": "Navy, Nuclear Power"
-    }, {
-      "username": "dynerman",
-      "name": "David Dynerman",
-      "coord": true,
-      "jobs": "Raven Software"
-    }, {
-      "username": "ender",
-      "name": "Sam Williams",
-      "coord": true,
-      "start": "Fall 1997",
-      "end": "Spring 1999",
-      "jobs": "Developer @ Microsoft"
-    }, {
-      "username": "leo",
-      "name": "Leo Rudberg",
-      "coord": true,
-      "start": "Fall 2012",
-      "end": "Spring 2016",
-      "link": "https://github.com/LOZORD/me",
-      "jobs": "WMS, WiNGS Lab/Paradrop, Exis, Intuit, Google"
-    }, {
-        "username": "epaulson",
-        "name": "Erik Paulson",
-        "start": "Fall 1996",
-        "end": "Spring 2001",
-        "jobs": "Developer, Condor Project Grad Student, UW-Madison",
-        "coord": true
-    }, {
-        "username": "felix",
-        "name": "Erik Jacobsen",
-        "start": "Fall 1994",
-        "end": "Spring 1996",
-        "jobs": "Software Engineer, Power Line Systems",
-        "coord": true
-    }, {
-        "username": "garret",
-        "name": "Garret Magin",
-        "start": "Spring 2001",
-        "end": "May 2005",
-        "jobs": "Software Engineer, Microsoft",
-        "coord": true
-    },
-    {
-        "username": "griswold",
-        "name": "nate griswold",
-        "start": " ",
-        "jobs": "Student",
-        "coord": true
-    },
-    {
-        "username": "gulfie",
-        "name": "tom rutledge",
-        "start": "fall 1995 - december 1996",
-        "jobs": "Splunk",
-        "coord": true
-    },
-    {
-        "username": "hackbart",
-        "name": "brian hackbarth",
-        "start": " ",
-        "jobs": "Masters Student, Purdue University ",
-        "coord": true
-    },
-    {
-        "username": "hamblin",
-        "name": "jeff hamblin",
-        "start": "fall 1999 - (december 2000?)",
-        "jobs": "Microsoft",
-        "coord": true
-    },
-    {
-        "username": "hammer",
-        "name": "matthew hammer ",
-        "start": " ",
-        "jobs": "PhD Student, Toyota Technical Institute",
-        "coord": true
-    },
-    {
-        "username": "harl",
-        "name": "tyler novak",
-        "start": "fall 1996 - december 1997",
-        "jobs": " ",
-        "coord": true
-    },
-    {
-        "username": "hartmann",
-        "name": "gus hartmann",
-        "start": "fall 1995 - may 1998",
-        "jobs": "System Administrator, Google",
-        "coord": true
-    },
-    {
-        "username": "herrman",
-        "name": "chris herrman",
-        "start": "fall 2000 - ",
-        "jobs": " ",
-        "coord": true
-    },
-    {
-        "username": "hupp",
-        "name": "adam hupp",
-        "start": "fall 1999 - ",
-        "jobs": "Software Engineer, Emageon",
-        "coord": true
-    },
-    {
-        "username": "ikunen",
-        "name": "isaac kunen",
-        "start": "fall 1998 - may 1999",
-        "jobs": "Grad Student, University of Washington",
-        "coord": true
-    },
-    {
-        "username": "jeffreyp",
-        "name": "jeffrey peterson",
-        "start": "january 1999 - ",
-        "jobs": "Technology Manager, Start Renting Inc.",
-        "coord": true
-    },
-    {
-        "username": "jepsen",
-        "name": "andrew jepsen",
-        "start": "fall 2001 - ",
-        "jobs": " ",
-        "coord": true
-    },
-    {
-        "username": "kilroy",
-        "name": "chuck mckenzie",
-        "start": "fall 1996 - may 1997, fall 1998",
-        "jobs": "Systems Administrator, Pleasant Company",
-        "coord": true
-    },
-    {
-        "username": "kimuchi",
-        "name": "kim wallace",
-        "start": "fall 1995 - may 1996",
-        "jobs": "CM Engineer, Splunk",
-        "coord": true
-    },
-    {
-        "username": "larry",
-        "name": "larry smith*",
-        "start": " - may 1992",
-        "jobs": " ",
-        "coord": true
-    },
-    {
-        "username": "loiterma",
-        "name": "jon loiterman",
-        "start": "fall 2000 - may 2001",
-        "jobs": " ",
-        "coord": true
-    },
-    {
-        "username": "louise",
-        "name": "louise helenius",
-        "start": "fall 2001 - ",
-        "jobs": "Research & Development, Industrial Light & Magic",
-        "coord": true
-    },
-    {
-        "username": "lunatic",
-        "name": "peter bierman",
-        "start": "fall 1995 - may 1996",
-        "jobs": "OS Software Engineer, Apple Computers ",
-        "coord": true
-    },
-    {
-        "username": "marcin",
-        "name": "marcin szymanski",
-        "start": "fall 2001 - ",
-        "jobs": "Games Programmer, Ensemble Studios",
-        "coord": true
-    },
-    {
-        "username": "mitch",
-        "name": "mitch blank",
-        "start": "fall 1995 - may 1996",
-        "jobs": "Splunk",
-        "coord": true
-    },
-    {
-        "username": "mpeterso",
-        "name": "matt peterson",
-        "start": "fall 1995 - ",
-        "jobs": " ",
-        "coord": true
-    },
-    {
-        "username": "m_turner",
-        "name": "michael turner",
-        "start": "fall 1994 - may 1996",
-        "jobs": "Web Developer, Network Appliance",
-        "coord": true
-    },
-    {
-        "username": "mzeller",
-        "name": "mark zeller ",
-        "start": " ",
-        "jobs": "Student",
-        "coord": true
-    },
-    {
-        "username": "naze",
-        "name": "nathan naze",
-        "start": "fall 2002 -",
-        "jobs": "Software Engineer, Google",
-        "coord": true
-    },
-    {
-        "username": "nevyn",
-        "name": "nick wagner",
-        "start": " august 1993 - may 1995",
-        "jobs": "Sr. Software Engineer, Electronic Theatre Controls (ETC)",
-        "coord": true
-    },
-    {
-        "username": "nick",
-        "name": "nick rasmussen",
-        "start": "fall 1998 - december 2001",
-        "jobs": "Professional Slacker, Dinosaur Flesh Jiggler, ILM",
-        "coord": true
-    },
-    {
-        "username": "nolan",
-        "name": "matthew nolan",
-        "start": "spring 2000 - may 2000",
-        "jobs": " ",
-        "coord": true
-    },
-    {
-        "username": "oblio",
-        "name": "bruce hearn",
-        "start": "fall 1995 - december 1995",
-        "jobs": "Silicon Energy Corporation",
-        "coord": true
-    },
-    {
-        "username": "orn",
-        "name": "rudy moore",
-        "start": "may 1990 - fall 1995",
-        "jobs": "Law Student, UW-Madison",
-        "coord": true
-    },
-    {
-        "username": "peeper",
-        "name": "craig peeper",
-        "start": " ",
-        "jobs": "Software Engineer, Microsoft",
-        "coord": true
-    },
-    {
-        "username": "psilord",
-        "name": "pete keller",
-        "start": "fall 1996 - may 1999",
-        "jobs": "Systems Programmer and Obscure Knowledge Maintainer, Condor Project, UW-Madison",
-        "coord": true
-    },
-    {
-        "username": "quayle",
-        "name": "doug quayle",
-        "start": " - may 1992",
-        "jobs": " ",
-        "coord": true
-    },
-    {
-        "username": "qsilver",
-        "name": "jeff obarski",
-        "start": "fall 1997 - may 1998",
-        "jobs": "Systems Administrator, American Girl",
-        "coord": true
-    },
-    {
-        "username": "raito",
-        "name": "neil gilmore",
-        "start": "june 1989 - may 1991",
-        "jobs": " ",
-        "coord": true
-    },
-    {
-        "username": "ramirez",
-        "name": "bryan ramirez",
-        "start": "fall 1998 - may 1999",
-        "jobs": "Systems Programmer, UW Dept of Biochemistry",
-        "coord": true
-    },
-    {
-        "username": "rapunzel",
-        "name": " caitlin howell",
-        "start": "fall 1996 - august 1997",
-        "jobs": " ",
-        "coord": true
-    },
-    {
-        "username": "sagamore",
-        "name": "matt beschta",
-        "start": "fall 1995 - december 1998",
-        "jobs": "Systems Administrator, OSC Security Team, AT&T Wireless",
-        "coord": true
-    },
-    {
-        "username": "solo",
-        "name": "abe megahed",
-        "start": " ",
-        "jobs": " ",
-        "coord": true
-    },
-    {
-        "username": "sparkie",
-        "name": "mark horn ",
-        "start": " ",
-        "jobs": "NASA Johnson Space Center",
-        "coord": true
-    },
-    {
-        "username": "spy",
-        "name": "mark spychalla",
-        "start": " ",
-        "jobs": "Data and Program Library Service, UW-Madison",
-        "coord": true
-    },
-    {
-        "username": "srour",
-        "name": "ben srour ",
-        "start": " ",
-        "jobs": "Student",
-        "coord": true
-    },
-    {
-        "username": "stanis",
-        "name": "thomas stanis",
-        "start": "fall 1997 - may 1999",
-        "jobs": "Game Programmer, Electronic Arts, \"Medal of Honor\"",
-        "coord": true
-    },
-    {
-        "username": "stephane",
-        "name": "stephane blardone",
-        "start": "fall 2000 - may 2002",
-        "jobs": "Software Engineer, Teramedica, Milwaukee",
-        "coord": true
-    },
-    {
-        "username": "stroker",
-        "name": "dennis strelow",
-        "start": "- may 1994",
-        "jobs": "PhD Student, Carnegie Mellon University",
-        "coord": true
-    },
-    {
-        "username": "stroker",
-        "name": "mark stokosa",
-        "start": "fall 1997 - may 1999",
-        "jobs": "Network Administrator, The Douglas Stewart Company",
-        "coord": true
-    },
-    {
-        "username": "theboo",
-        "name": "eric bazan",
-        "start": " ",
-        "jobs": " ",
-        "coord": true
-    },
-    {
-        "username": "tomlaw",
-        "name": "tom lawrence",
-        "start": " ",
-        "jobs": "Microsoft",
-        "coord": true
-    },
-    {
-        "username": "wannis",
-        "name": "william annis",
-        "start": "may 1994 - may 1996",
-        "jobs": "Sr Systems Programmer, Biostatistics and Medical Informatics",
-        "coord": true
-    },
-    {
-        "username": "will",
-        "name": "will mcdonald",
-        "start": "fall 1999 - may 2002",
-        "jobs": "Systems/Database Administrator, Epic Systems",
-        "coord": true
-    },
-    {
-        "username": "winstonc",
-        "name": "winston chang",
-        "start": "fall 1999 - may 2000",
-        "jobs": "MIT, at the Brain and Cognitive Sciences group",
-        "coord": true
-    },
-    {
-        "username": "wonko",
-        "name": "eric oehler",
-        "start": "fall 1993 - may 1995",
-        "jobs": "Application Developer/Consultant, Beacon Technologies (also, international pop star)",
-        "coord": true
-    },
-    {
-        "username": "wonko",
-        "name": "tim nowaczyk",
-        "start": "fall 2000 - may 2001",
-        "jobs": "Sysadmin, UVA Dept. of Psychology",
-        "coord": true
-    },
-    {
-        "username": "zmiller",
-        "name": "zach miller",
-        "start": "fall 1998 - ",
-        "jobs": "Systems Programmer, Condor Project, UW Madison",
-        "coord": true
-    },
-    {
-        "username": "ajkunen",
-        "name": "adam kunen",
-        "start": " ",
-        "jobs": "Student",
-        "coord": false
-    },
-    {
-        "username": "blue",
-        "name": "chuck spencer",
-        "start": "- may 1998",
-        "jobs": "Assoc Information Processing Consultant, UW Medical School",
-        "coord": false
-    },
-    {
-        "username": "cfarrell",
-        "name": "chris farrell",
-        "start": "- may 1994",
-        "jobs": "Principal Staff Engineer, Motorola, Inc.",
-        "coord": false
-    },
-    {
-        "username": "dickson",
-        "name": "ross dickson",
-        "start": "- may 2001",
-        "jobs": " ",
-        "coord": false
-    },
-    {
-        "username": "dparter",
-        "name": "david parter ",
-        "start": "- may 1991",
-        "jobs": "Asst. Director, CSL",
-        "coord": false
-    },
-    {
-        "username": "etler",
-        "name": "sam etler",
-        "start": "august 1997 - may 2000",
-        "jobs": "Phone Phreak, Tellme Systems",
-        "coord": false
-    },
-    {
-        "username": "grim",
-        "name": "natira (hammerstrom) harris ",
-        "start": " ",
-        "jobs": "Genentech",
-        "coord": false
-    },
-    {
-        "username": "grim",
-        "name": "j simon ",
-        "start": " ",
-        "jobs": " ",
-        "coord": false
-    },
-    {
-        "username": "harvey",
-        "name": "john k harvey",
-        "start": "- may 2000",
-        "jobs": " ",
-        "coord": false
-    },
-    {
-        "username": "henninge",
-        "name": "erich henninger",
-        "start": "- may 2003",
-        "jobs": " ",
-        "coord": false
-    },
-    {
-        "username": "jemiah",
-        "name": "jemiah alexander aitch",
-        "start": "- may 1999",
-        "jobs": " ",
-        "coord": false
-    },
-    {
-        "username": "jmelski",
-        "name": "eric melski",
-        "start": "- may 1999",
-        "jobs": " ",
-        "coord": false
-    },
-    {
-        "username": "jolson",
-        "name": "jim olson",
-        "start": " ",
-        "jobs": " ",
-        "coord": false
-    },
-    {
-        "username": "longhair",
-        "name": "derrick dieringer",
-        "start": " ",
-        "jobs": "owner & principal instructor, art of dance",
-        "coord": false
-    },
-    {
-        "username": "malice",
-        "name": "marc beltmann",
-        "start": "- may 2000",
-        "jobs": " ",
-        "coord": false
-    },
-    {
-        "username": "mblodget",
-        "name": "mike blodgett",
-        "start": " ",
-        "jobs": " ",
-        "coord": false
-    },
-    {
-        "username": "mott",
-        "name": "christine mott ",
-        "start": "- december 2002",
-        "jobs": "Duluth Trading Company",
-        "coord": false
-    },
-    {
-        "username": "nash",
-        "name": "daniel nash",
-        "start": "- may 2003",
-        "jobs": " ",
-        "coord": false
-    },
-    {
-        "username": "ned",
-        "name": "james kirby",
-        "start": "- may 2000",
-        "jobs": "PhD Student, University of Chicago",
-        "coord": false
-    },
-    {
-        "username": "nejedlo",
-        "name": "mark nejedlo",
-        "start": "- may 2001",
-        "jobs": "Information Processing Consultant, UW Dept of Physics",
-        "coord": false
-    },
-    {
-        "username": "nwa",
-        "name": "nate anderson",
-        "start": "- may 1999",
-        "jobs": "Software Engineer, Programming Solutions Inc. & McDonagh Brothers Inc. Sound Engineering Consultant, Independant",
-        "coord": false
-    },
-    {
-        "username": "pitter",
-        "name": "jacqueline pitter ",
-        "start": "- may 2001",
-        "jobs": " ",
-        "coord": false
-    },
-    {
-        "username": "ploor",
-        "name": "derek ploor",
-        "start": "- may 2003",
-        "jobs": " ",
-        "coord": false
-    },
-    {
-        "username": "rafter",
-        "name": "sam rafter",
-        "start": "- may 1995",
-        "jobs": " QA, ",
-        "coord": false
-    },
-    {
-        "username": "rakocy",
-        "name": "jonathan rakocy",
-        "start": " ",
-        "jobs": " ",
-        "coord": false
-    },
-    {
-        "username": "schallit",
-        "name": "kurt schallitz ",
-        "start": " ",
-        "jobs": " ",
-        "coord": false
-    },
-    {
-        "username": "theorist",
-        "name": "greg thain",
-        "start": "- may 1990",
-        "jobs": "Condor Project, UW-Madison ",
-        "coord": false
-    },
-    {
-        "username": "theorist",
-        "name": "josh gross",
-        "start": "- may 1996",
-        "jobs": "PhD Student, Penn State",
-        "coord": false
-    },
-    {
-        "username": "weisfiel",
-        "name": "russell evan weisfield ",
-        "start": "- may 1999",
-        "jobs": " ",
-        "coord": false
-    },
-    {
-        "username": "woodelf",
-        "name": "nathaniel barmore ",
-        "start": "- may 1999",
-        "jobs": " ",
-        "coord": false
-    }
-  ]
+    "who": [
+        {
+            "username": "adept",
+            "name": "Mark Mcullough",
+            "start": "Fall 1995",
+            "end": "???",
+            "coord": true,
+            "jobs": "",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "adt",
+            "name": "Aaron Teche",
+            "start": "Spring 1997",
+            "end": "???",
+            "coord": true,
+            "jobs": "Systems Programmer @ UW Biostatistics",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "alyska",
+            "name": "Alyska Bailey",
+            "start": "Fall 2000",
+            "end": "???",
+            "coord": true,
+            "jobs": "Multimediatrix, Wisconsin Alumni Association, PointyKitty Studios",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "alp",
+            "name": "Karen (Powers) Wooten",
+            "start": "???",
+            "end": "???",
+            "coord": true,
+            "jobs": "Resident Physician @ University of Washington",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "amohr",
+            "name": "Alex Mohr",
+            "start": "Fall 1999",
+            "end": "???",
+            "coord": true,
+            "jobs": "Pixar",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "anthony",
+            "name": "Anthony Magro",
+            "start": "???",
+            "end": "???",
+            "coord": true,
+            "jobs": "Raven Software",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "aselle",
+            "name": "Andy Selle",
+            "start": "Fall 2000",
+            "end": "???",
+            "coord": true,
+            "jobs": "PhD @ Stanford",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "bethenco",
+            "name": "John Bethencourt",
+            "start": "???",
+            "end": "???",
+            "coord": true,
+            "jobs": "PhD @ CMU",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "bmartin",
+            "name": "Bret Martin",
+            "start": "Fall 2001",
+            "end": "???",
+            "coord": true,
+            "jobs": "Grad student @ UW-Madison",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "bmuller",
+            "name": "Brenda Muller",
+            "start": "???",
+            "end": "???",
+            "coord": true,
+            "jobs": "",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "chaos",
+            "name": "Alan Desmet",
+            "start": "Fall 1996",
+            "end": "???",
+            "coord": true,
+            "jobs": "Programmer @ HTCondor",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "charkins",
+            "name": "Casey Harkins",
+            "start": "Fall 1999",
+            "end": "???",
+            "coord": true,
+            "jobs": "",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "colson",
+            "name": "Chris Olson",
+            "start": "???",
+            "end": "???",
+            "coord": true,
+            "jobs": "Senior Software Engineer @ Raven Software, Tech Programmer @ Stolen Notebook LLC",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "craft",
+            "name": "Michelle Craft",
+            "start": "Fall 1998",
+            "end": "???",
+            "coord": true,
+            "jobs": "Programmer @ UW CS, Law Student",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "csch",
+            "name": "Chris Schulze",
+            "start": "???",
+            "end": "???",
+            "coord": true,
+            "jobs": "",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "dac",
+            "name": "Dave Carley",
+            "start": "Spring 1994",
+            "end": "???",
+            "coord": true,
+            "jobs": "Software Engineer @ Corel Corp",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "dsb",
+            "name": "Dave Blumenthal",
+            "start": "Summer 1993",
+            "end": "???",
+            "coord": true,
+            "jobs": "Solidworks Corporation",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "dturner",
+            "name": "Dave Turner",
+            "start": "???",
+            "end": "???",
+            "coord": true,
+            "jobs": "Navy, Nuclear Power",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "dynerman",
+            "name": "David Dynerman",
+            "start": "???",
+            "end": "???",
+            "coord": true,
+            "jobs": "Raven Software",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "ender",
+            "name": "Sam Williams",
+            "start": "Fall 1997",
+            "end": "???",
+            "coord": true,
+            "jobs": "Developer @ Microsoft",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "leo",
+            "name": "Leo Rudberg",
+            "start": "Fall 2012",
+            "end": "???",
+            "coord": true,
+            "jobs": "WMS, WiNGS Lab/Paradrop, Exis, Intuit, Google",
+            "link": "https://github.com/LOZORD/me",
+            "misc": ""
+        },
+        {
+            "username": "epaulson",
+            "name": "Erik Paulson",
+            "start": "Fall 1996",
+            "end": "Spring 2001",
+            "coord": true,
+            "jobs": "Developer, Condor Project Grad Student, UW-Madison",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "felix",
+            "name": "Erik Jacobsen",
+            "start": "Fall 1994",
+            "end": "Spring 1996",
+            "coord": true,
+            "jobs": "Software Engineer, Power Line Systems",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "garret",
+            "name": "Garret Magin",
+            "start": "Spring 2001",
+            "end": "Spring 2005",
+            "coord": true,
+            "jobs": "Software Engineer, Microsoft",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "griswold",
+            "name": "Nate Griswold",
+            "start": "???",
+            "end": "???",
+            "coord": true,
+            "jobs": "Student",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "gulfie",
+            "name": "Tom Rutledge",
+            "start": "Fall 1995",
+            "end": "Fall 1996",
+            "coord": true,
+            "jobs": "Splunk",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "hackbart",
+            "name": "Brian Hackbarth",
+            "start": "???",
+            "end": "???",
+            "coord": true,
+            "jobs": "Masters Student, Purdue University",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "hamblin",
+            "name": "Jeff Hamblin",
+            "start": "Fall 1999",
+            "end": "(December 2000?)",
+            "coord": true,
+            "jobs": "Microsoft",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "hammer",
+            "name": "Matthew Hammer ",
+            "start": "???",
+            "end": "???",
+            "coord": true,
+            "jobs": "PhD Student, Toyota Technical Institute",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "harl",
+            "name": "Tyler Novak",
+            "start": "Fall 1996",
+            "end": "Fall 1997",
+            "coord": true,
+            "jobs": "",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "hartmann",
+            "name": "Gus Hartmann",
+            "start": "Fall 1995",
+            "end": "Spring 1998",
+            "coord": true,
+            "jobs": "System Administrator, Google",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "herrman",
+            "name": "Chris Herrman",
+            "start": "Fall 2000",
+            "end": "???",
+            "coord": true,
+            "jobs": "",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "hupp",
+            "name": "Adam Hupp",
+            "start": "Fall 1999",
+            "end": "???",
+            "coord": true,
+            "jobs": "Software Engineer, Emageon",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "ikunen",
+            "name": "Isaac Kunen",
+            "start": "Fall 1998",
+            "end": "Spring 1999",
+            "coord": true,
+            "jobs": "Grad Student, University of Washington",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "jeffreyp",
+            "name": "Jeffrey Peterson",
+            "start": "Spring 1999",
+            "end": "???",
+            "coord": true,
+            "jobs": "Technology Manager, Start Renting Inc.",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "jepsen",
+            "name": "Andrew Jepsen",
+            "start": "Fall 2001",
+            "end": "???",
+            "coord": true,
+            "jobs": "",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "kilroy",
+            "name": "Chuck Mckenzie",
+            "start": "Fall 1996",
+            "end": "Spring 1997,",
+            "coord": true,
+            "jobs": "Systems Administrator, Pleasant Company",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "kimuchi",
+            "name": "Kim Wallace",
+            "start": "Fall 1995",
+            "end": "Spring 1996",
+            "coord": true,
+            "jobs": "CM Engineer, Splunk",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "larry",
+            "name": "Larry Smith*",
+            "start": "???",
+            "end": "Spring 1992",
+            "coord": true,
+            "jobs": "",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "loiterma",
+            "name": "Jon Loiterman",
+            "start": "Fall 2000",
+            "end": "Spring 2001",
+            "coord": true,
+            "jobs": "",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "louise",
+            "name": "Louise Helenius",
+            "start": "Fall 2001",
+            "end": "???",
+            "coord": true,
+            "jobs": "Research & Development, Industrial Light & Magic",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "lunatic",
+            "name": "Peter Bierman",
+            "start": "Fall 1995",
+            "end": "Spring 1996",
+            "coord": true,
+            "jobs": "OS Software Engineer, Apple Computers",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "marcin",
+            "name": "Marcin Szymanski",
+            "start": "Fall 2001",
+            "end": "???",
+            "coord": true,
+            "jobs": "Games Programmer, Ensemble Studios",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "mitch",
+            "name": "Mitch Blank",
+            "start": "Fall 1995",
+            "end": "Spring 1996",
+            "coord": true,
+            "jobs": "Splunk",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "mpeterso",
+            "name": "Matt Peterson",
+            "start": "Fall 1995",
+            "end": "???",
+            "coord": true,
+            "jobs": "",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "m_turner",
+            "name": "Michael Turner",
+            "start": "Fall 1994",
+            "end": "Spring 1996",
+            "coord": true,
+            "jobs": "Web Developer, Network Appliance",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "mzeller",
+            "name": "Mark Zeller ",
+            "start": "???",
+            "end": "???",
+            "coord": true,
+            "jobs": "Student",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "naze",
+            "name": "Nathan Naze",
+            "start": "Fall 2002",
+            "end": "???",
+            "coord": true,
+            "jobs": "Software Engineer, Google",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "nevyn",
+            "name": "Nick Wagner",
+            "start": "Summer 1993",
+            "end": "Spring 1995",
+            "coord": true,
+            "jobs": "Sr. Software Engineer, Electronic Theatre Controls (ETC)",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "nick",
+            "name": "Nick Rasmussen",
+            "start": "Fall 1998",
+            "end": "Fall 2001",
+            "coord": true,
+            "jobs": "Professional Slacker, Dinosaur Flesh Jiggler, ILM",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "nolan",
+            "name": "Matthew Nolan",
+            "start": "Spring 2000",
+            "end": "Spring 2000",
+            "coord": true,
+            "jobs": "",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "oblio",
+            "name": "Bruce Hearn",
+            "start": "Fall 1995",
+            "end": "Fall 1995",
+            "coord": true,
+            "jobs": "Silicon Energy Corporation",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "orn",
+            "name": "Rudy Moore",
+            "start": "Spring 1990",
+            "end": "Fall 1995",
+            "coord": true,
+            "jobs": "Law Student, UW-Madison",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "peeper",
+            "name": "Craig Peeper",
+            "start": "???",
+            "end": "???",
+            "coord": true,
+            "jobs": "Software Engineer, Microsoft",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "psilord",
+            "name": "Pete Keller",
+            "start": "Fall 1996",
+            "end": "Spring 1999",
+            "coord": true,
+            "jobs": "Systems Programmer and Obscure Knowledge Maintainer, Condor Project, UW-Madison",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "quayle",
+            "name": "Doug Quayle",
+            "start": "???",
+            "end": "Spring 1992",
+            "coord": true,
+            "jobs": "",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "qsilver",
+            "name": "Jeff Obarski",
+            "start": "Fall 1997",
+            "end": "Spring 1998",
+            "coord": true,
+            "jobs": "Systems Administrator, American Girl",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "raito",
+            "name": "Neil Gilmore",
+            "start": "Summer 1989",
+            "end": "Spring 1991",
+            "coord": true,
+            "jobs": "",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "ramirez",
+            "name": "Bryan Ramirez",
+            "start": "Fall 1998",
+            "end": "Spring 1999",
+            "coord": true,
+            "jobs": "Systems Programmer, UW Dept of Biochemistry",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "rapunzel",
+            "name": " Caitlin Howell",
+            "start": "Fall 1996",
+            "end": "Summer 1997",
+            "coord": true,
+            "jobs": "",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "sagamore",
+            "name": "Matt Beschta",
+            "start": "Fall 1995",
+            "end": "Fall 1998",
+            "coord": true,
+            "jobs": "Systems Administrator, OSC Security Team, AT&T Wireless",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "solo",
+            "name": "Abe Megahed",
+            "start": "???",
+            "end": "???",
+            "coord": true,
+            "jobs": "",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "sparkie",
+            "name": "Mark Horn ",
+            "start": "???",
+            "end": "???",
+            "coord": true,
+            "jobs": "NASA Johnson Space Center",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "spy",
+            "name": "Mark Spychalla",
+            "start": "???",
+            "end": "???",
+            "coord": true,
+            "jobs": "Data and Program Library Service, UW-Madison",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "srour",
+            "name": "Ben Srour ",
+            "start": "???",
+            "end": "???",
+            "coord": true,
+            "jobs": "Student",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "stanis",
+            "name": "Thomas Stanis",
+            "start": "Fall 1997",
+            "end": "Spring 1999",
+            "coord": true,
+            "jobs": "Game Programmer, Electronic Arts, \"Medal of Honor\"",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "stephane",
+            "name": "Stephane Blardone",
+            "start": "Fall 2000",
+            "end": "Spring 2002",
+            "coord": true,
+            "jobs": "Software Engineer, Teramedica, Milwaukee",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "stroker",
+            "name": "Dennis Strelow",
+            "start": "???",
+            "end": "Spring 1994",
+            "coord": true,
+            "jobs": "PhD Student, Carnegie Mellon University",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "stroker",
+            "name": "Mark Stokosa",
+            "start": "Fall 1997",
+            "end": "Spring 1999",
+            "coord": true,
+            "jobs": "Network Administrator, The Douglas Stewart Company",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "theboo",
+            "name": "Eric Bazan",
+            "start": "???",
+            "end": "???",
+            "coord": true,
+            "jobs": "",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "tomlaw",
+            "name": "Tom Lawrence",
+            "start": "???",
+            "end": "???",
+            "coord": true,
+            "jobs": "Microsoft",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "wannis",
+            "name": "William Annis",
+            "start": "Spring 1994",
+            "end": "Spring 1996",
+            "coord": true,
+            "jobs": "Sr Systems Programmer, Biostatistics and Medical Informatics",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "will",
+            "name": "Will Mcdonald",
+            "start": "Fall 1999",
+            "end": "Spring 2002",
+            "coord": true,
+            "jobs": "Systems/Database Administrator, Epic Systems",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "winstonc",
+            "name": "Winston Chang",
+            "start": "Fall 1999",
+            "end": "Spring 2000",
+            "coord": true,
+            "jobs": "MIT, at the Brain and Cognitive Sciences group",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "wonko",
+            "name": "Eric Oehler",
+            "start": "Fall 1993",
+            "end": "Spring 1995",
+            "coord": true,
+            "jobs": "Application Developer/Consultant, Beacon Technologies (also, international pop star)",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "wonko",
+            "name": "Tim Nowaczyk",
+            "start": "Fall 2000",
+            "end": "Spring 2001",
+            "coord": true,
+            "jobs": "Sysadmin, UVA Dept. of Psychology",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "zmiller",
+            "name": "Zach Miller",
+            "start": "Fall 1998",
+            "end": "???",
+            "coord": true,
+            "jobs": "Systems Programmer, Condor Project, UW Madison",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "ajkunen",
+            "name": "Adam Kunen",
+            "start": "???",
+            "end": "???",
+            "coord": false,
+            "jobs": "Student",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "blue",
+            "name": "Chuck Spencer",
+            "start": "???",
+            "end": "Spring 1998",
+            "coord": false,
+            "jobs": "Assoc Information Processing Consultant, UW Medical School",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "cfarrell",
+            "name": "Chris Farrell",
+            "start": "???",
+            "end": "Spring 1994",
+            "coord": false,
+            "jobs": "Principal Staff Engineer, Motorola, Inc.",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "dickson",
+            "name": "Ross Dickson",
+            "start": "???",
+            "end": "Spring 2001",
+            "coord": false,
+            "jobs": "",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "dparter",
+            "name": "David Parter ",
+            "start": "???",
+            "end": "Spring 1991",
+            "coord": false,
+            "jobs": "Asst. Director, CSL",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "etler",
+            "name": "Sam Etler",
+            "start": "Summer 1997",
+            "end": "Spring 2000",
+            "coord": false,
+            "jobs": "Phone Phreak, Tellme Systems",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "grim",
+            "name": "Natira (Hammerstrom) Harris ",
+            "start": "???",
+            "end": "???",
+            "coord": false,
+            "jobs": "Genentech",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "grim",
+            "name": "J Simon ",
+            "start": "???",
+            "end": "???",
+            "coord": false,
+            "jobs": "",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "harvey",
+            "name": "John K Harvey",
+            "start": "???",
+            "end": "Spring 2000",
+            "coord": false,
+            "jobs": "",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "henninge",
+            "name": "Erich Henninger",
+            "start": "???",
+            "end": "Spring 2003",
+            "coord": false,
+            "jobs": "",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "jemiah",
+            "name": "Jemiah Alexander Aitch",
+            "start": "???",
+            "end": "Spring 1999",
+            "coord": false,
+            "jobs": "",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "jmelski",
+            "name": "Eric Melski",
+            "start": "???",
+            "end": "Spring 1999",
+            "coord": false,
+            "jobs": "",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "jolson",
+            "name": "Jim Olson",
+            "start": "???",
+            "end": "???",
+            "coord": false,
+            "jobs": "",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "longhair",
+            "name": "Derrick Dieringer",
+            "start": "???",
+            "end": "???",
+            "coord": false,
+            "jobs": "owner & principal instructor, art of dance",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "malice",
+            "name": "Marc Beltmann",
+            "start": "???",
+            "end": "Spring 2000",
+            "coord": false,
+            "jobs": "",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "mblodget",
+            "name": "Mike Blodgett",
+            "start": "???",
+            "end": "???",
+            "coord": false,
+            "jobs": "",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "mott",
+            "name": "Christine Mott ",
+            "start": "???",
+            "end": "Fall 2002",
+            "coord": false,
+            "jobs": "Duluth Trading Company",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "nash",
+            "name": "Daniel Nash",
+            "start": "???",
+            "end": "Spring 2003",
+            "coord": false,
+            "jobs": "",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "ned",
+            "name": "James Kirby",
+            "start": "???",
+            "end": "Spring 2000",
+            "coord": false,
+            "jobs": "PhD Student, University of Chicago",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "nejedlo",
+            "name": "Mark Nejedlo",
+            "start": "???",
+            "end": "Spring 2001",
+            "coord": false,
+            "jobs": "Information Processing Consultant, UW Dept of Physics",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "nwa",
+            "name": "Nate Anderson",
+            "start": "???",
+            "end": "Spring 1999",
+            "coord": false,
+            "jobs": "Software Engineer, Programming Solutions Inc. & McDonagh Brothers Inc. Sound Engineering Consultant, Independant",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "pitter",
+            "name": "Jacqueline Pitter ",
+            "start": "???",
+            "end": "Spring 2001",
+            "coord": false,
+            "jobs": "",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "ploor",
+            "name": "Derek Ploor",
+            "start": "???",
+            "end": "Spring 2003",
+            "coord": false,
+            "jobs": "",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "rafter",
+            "name": "Sam Rafter",
+            "start": "???",
+            "end": "Spring 1995",
+            "coord": false,
+            "jobs": "QA,",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "rakocy",
+            "name": "Jonathan Rakocy",
+            "start": "???",
+            "end": "???",
+            "coord": false,
+            "jobs": "",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "schallit",
+            "name": "Kurt Schallitz ",
+            "start": "???",
+            "end": "???",
+            "coord": false,
+            "jobs": "",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "theorist",
+            "name": "Greg Thain",
+            "start": "???",
+            "end": "Spring 1990",
+            "coord": false,
+            "jobs": "Condor Project, UW-Madison",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "theorist",
+            "name": "Josh Gross",
+            "start": "???",
+            "end": "Spring 1996",
+            "coord": false,
+            "jobs": "PhD Student, Penn State",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "weisfiel",
+            "name": "Russell Evan Weisfield ",
+            "start": "???",
+            "end": "Spring 1999",
+            "coord": false,
+            "jobs": "",
+            "link": "",
+            "misc": ""
+        },
+        {
+            "username": "woodelf",
+            "name": "Nathaniel Barmore ",
+            "start": "???",
+            "end": "Spring 1999",
+            "coord": false,
+            "jobs": "",
+            "link": "",
+            "misc": ""
+        }
+    ]
 }
