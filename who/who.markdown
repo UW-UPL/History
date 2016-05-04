@@ -51,7 +51,7 @@
 | `kilroy` | Chuck Mckenzie | Fall 1996 | Spring 1997, | :white_check_mark: | Systems Administrator, Pleasant Company |  |  |
 | `kimuchi` | Kim Wallace | Fall 1995 | Spring 1996 | :white_check_mark: | CM Engineer, Splunk |  |  |
 | `larry` | Larry Smith* | ??? | Spring 1992 | :white_check_mark: |  |  |  |
-| `leo` | Leo Rudberg | Fall 2012 | ??? | :white_check_mark: | WMS, WiNGS Lab/Paradrop, Exis, Intuit, Google | https://github.com/LOZORD/me |  |
+| `leo` | Leo Rudberg | Fall 2012 | Spring 2016 | :white_check_mark: | WMS, WiNGS Lab/Paradrop, Exis, Intuit, Google | https://github.com/LOZORD/me |  |
 | `loiterma` | Jon Loiterman | Fall 2000 | Spring 2001 | :white_check_mark: |  |  |  |
 | `longhair` | Derrick Dieringer | ??? | ??? | :x: | owner & principal instructor, art of dance |  |  |
 | `louise` | Louise Helenius | Fall 2001 | ??? | :white_check_mark: | Research & Development, Industrial Light & Magic |  |  |
