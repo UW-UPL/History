@@ -74,6 +74,7 @@
 | `nwa` | Nate Anderson | ??? | Spring 1999 | :x: | Software Engineer, Programming Solutions Inc. & McDonagh Brothers Inc. Sound Engineering Consultant, Independant |  |  |
 | `oblio` | Bruce Hearn | Fall 1995 | Fall 1995 | :white_check_mark: | Silicon Energy Corporation |  |  |
 | `orn` | Rudy Moore | Spring 1990 | Fall 1995 | :white_check_mark: | Law Student, UW-Madison |  |  |
+| `osuocha` | Obi-Ron Osuocha | Fall 2000 | Fall 2015 | :white_check_mark: | DoIT Help Desk; UW-Madison Astrophysics - programmer; Madison Urban League; Great Lakes Educational Loan Services Inc. - Programmer |  |  |
 | `peeper` | Craig Peeper | ??? | ??? | :white_check_mark: | Software Engineer, Microsoft |  |  |
 | `pitter` | Jacqueline Pitter  | ??? | Spring 2001 | :x: |  |  |  |
 | `ploor` | Derek Ploor | ??? | Spring 2003 | :x: |  |  |  |
