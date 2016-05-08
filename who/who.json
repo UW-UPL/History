@@ -1079,6 +1079,16 @@
             "jobs": "",
             "link": "",
             "misc": ""
+        },
+        {
+            "username": "tolly",
+            "name": "Michael Tolly",
+            "start": "Spring 2012",
+            "end": "Spring 2013",
+            "coord": true,
+            "jobs": "Field Day Lab (Wisconsin Institutes for Discovery)",
+            "link": "https://github.com/mtolly",
+            "misc": ""
         }
     ]
 }

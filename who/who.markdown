@@ -99,6 +99,7 @@
 | `theboo` | Eric Bazan | ??? | ??? | :white_check_mark: |  |  |  |
 | `theorist` | Greg Thain | ??? | Spring 1990 | :x: | Condor Project, UW-Madison |  |  |
 | `theorist` | Josh Gross | ??? | Spring 1996 | :x: | PhD Student, Penn State |  |  |
+| `tolly` | Michael Tolly | Spring 2012 | Spring 2013 | :white_check_mark: | Field Day Lab (Wisconsin Institutes for Discovery) | https://github.com/mtolly |  |
 | `tomlaw` | Tom Lawrence | ??? | ??? | :white_check_mark: | Microsoft |  |  |
 | `wannis` | William Annis | Spring 1994 | Spring 1996 | :white_check_mark: | Sr Systems Programmer, Biostatistics and Medical Informatics |  |  |
 | `weisfiel` | Russell Evan Weisfield  | ??? | Spring 1999 | :x: |  |  |  |
