@@ -88,6 +88,7 @@
 | `rapunzel` |  Caitlin Howell | Fall 1996 | Summer 1997 | :white_check_mark: |  |  |  |
 | `sagamore` | Matt Beschta | Fall 1995 | Fall 1998 | :white_check_mark: | Systems Administrator, OSC Security Team, AT&T Wireless |  |  |
 | `schallit` | Kurt Schallitz  | ??? | ??? | :x: |  |  |  |
+| `sohail` | Alex Sohail | Fall 2012 | Spring 2015 | :white_check_mark: | Microsoft | https://github.com/elementrat |  |
 | `solo` | Abe Megahed | ??? | ??? | :white_check_mark: |  |  |  |
 | `sparkie` | Mark Horn  | ??? | ??? | :white_check_mark: | NASA Johnson Space Center |  |  |
 | `spy` | Mark Spychalla | ??? | ??? | :white_check_mark: | Data and Program Library Service, UW-Madison |  |  |

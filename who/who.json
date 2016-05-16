@@ -1089,6 +1089,16 @@
             "jobs": "Field Day Lab (Wisconsin Institutes for Discovery)",
             "link": "https://github.com/mtolly",
             "misc": ""
+        },
+        {
+            "username": "sohail",
+            "name": "Alex Sohail",
+            "start": "Fall 2012",
+            "end": "Spring 2015",
+            "coord": true,
+            "jobs": "Microsoft",
+            "link": "https://github.com/elementrat",
+            "misc": ""
         }
     ]
 }
