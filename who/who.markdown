@@ -39,7 +39,7 @@
 | `harl` | Tyler Novak | Fall 1996 | Fall 1997 | :white_check_mark: |  |  |  |
 | `hartmann` | Gus Hartmann | Fall 1995 | Spring 1998 | :white_check_mark: | System Administrator, Google |  |  |
 | `harvey` | John K Harvey | ??? | Spring 2000 | :x: |  |  |  |
-| `heindl` | Nick Heindl | Spring 2012 | Spring 2016 | :white_check_mark: | Mobile Learning Incubator, Amazon, Raven Software | https://github.com/katamaritaco/me | http://nheindl.com | |
+| `heindl` | Nick Heindl | Spring 2012 | Spring 2016 | :white_check_mark: | Mobile Learning Incubator, Amazon, Raven Software | https://github.com/katamaritaco/me http://nheindl.com | |
 | `henninge` | Erich Henninger | ??? | Spring 2003 | :x: |  |  |  |
 | `herrman` | Chris Herrman | Fall 2000 | ??? | :white_check_mark: |  |  |  |
 | `hupp` | Adam Hupp | Fall 1999 | ??? | :white_check_mark: | Software Engineer, Emageon |  |  |
