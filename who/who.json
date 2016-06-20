@@ -1109,6 +1109,16 @@
             "jobs": "Microsoft",
             "link": "https://github.com/elementrat",
             "misc": ""
+        },
+        {
+            "name": "Matt Neil",
+            "username": "mneil",
+            "start": "Fall 2012",
+            "end": "Spring 2016",
+            "coord": true,
+            "link": "https://github.com/mjneil",
+            "jobs": "Brightcove, Inc.",
+            "misc": ""
         }
     ]
 }
