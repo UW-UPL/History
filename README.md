@@ -1,5 +1,5 @@
 # History
-A history of the [Undergraduates Projects Lab](http://uw-upl.github.io)
+A history of the [Undergraduate Projects Lab](http://uw-upl.github.io)
 
 ## `who`
 
