@@ -1120,7 +1120,7 @@
             "jobs": "Brightcove, Inc.",
             "misc": ""
         },
-	{
+		{
             "name": "Riccardo Mutschlechner",
             "username": "riccardo",
             "start": "Fall 2013",
@@ -1129,6 +1129,16 @@
             "link": "https://github.com/ricky54326",
             "jobs": "Visa, Riot Games",
             "misc": "Connoisseur of dank memes"
+        },
+		{
+            "name": "Josh Love",
+            "username": "love",
+            "start": "Fall 2014",
+            "end": "Spring 2015",
+            "coord": false,
+            "link": "http://kecos.us",
+            "jobs": "UW-Madison Student Job Center, 6AM Marketing",
+            "misc": "i'll think of something witty eventually"
         }
     ]
 }
