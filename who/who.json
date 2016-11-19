@@ -1119,6 +1119,16 @@
             "link": "https://github.com/mjneil",
             "jobs": "Brightcove, Inc.",
             "misc": ""
+        },
+	{
+            "name": "Riccardo Mutschlechner",
+            "username": "riccardo",
+            "start": "Fall 2013",
+            "end": "Spring 2017",
+            "coord": true,
+            "link": "https://github.com/ricky54326",
+            "jobs": "Visa, Riot Games",
+            "misc": "Connoisseur of dank memes"
         }
     ]
 }

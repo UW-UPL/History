@@ -39,7 +39,7 @@
 | `harl` | Tyler Novak | Fall 1996 | Fall 1997 | :white_check_mark: |  |  |  |
 | `hartmann` | Gus Hartmann | Fall 1995 | Spring 1998 | :white_check_mark: | System Administrator, Google |  |  |
 | `harvey` | John K Harvey | ??? | Spring 2000 | :x: |  |  |  |
-| `heindl` | Nick Heindl | Spring 2012 | Spring 2016 | :white_check_mark: | Mobile Learning Incubator, Amazon, Raven Software | https://github.com/katamaritaco/me http://nheindl.com | |
+| `heindl` | Nick Heindl | Spring 2012 | Spring 2016 | :white_check_mark: | Mobile Learning Incubator, Amazon, Raven Software | https://github.com/katamaritaco/me  http://nheindl.com |  |
 | `henninge` | Erich Henninger | ??? | Spring 2003 | :x: |  |  |  |
 | `herrman` | Chris Herrman | Fall 2000 | ??? | :white_check_mark: |  |  |  |
 | `hupp` | Adam Hupp | Fall 1999 | ??? | :white_check_mark: | Software Engineer, Emageon |  |  |
@@ -62,6 +62,7 @@
 | `marcin` | Marcin Szymanski | Fall 2001 | ??? | :white_check_mark: | Games Programmer, Ensemble Studios |  |  |
 | `mblodget` | Mike Blodgett | ??? | ??? | :x: |  |  |  |
 | `mitch` | Mitch Blank | Fall 1995 | Spring 1996 | :white_check_mark: | Splunk |  |  |
+| `mneil` | Matt Neil | Fall 2012 | Spring 2016 | :white_check_mark: | Brightcove, Inc. | https://github.com/mjneil |  |
 | `mott` | Christine Mott  | ??? | Fall 2002 | :x: | Duluth Trading Company |  |  |
 | `mpeterso` | Matt Peterson | Fall 1995 | ??? | :white_check_mark: |  |  |  |
 | `mzeller` | Mark Zeller  | ??? | ??? | :white_check_mark: | Student |  |  |
@@ -87,6 +88,7 @@
 | `rakocy` | Jonathan Rakocy | ??? | ??? | :x: |  |  |  |
 | `ramirez` | Bryan Ramirez | Fall 1998 | Spring 1999 | :white_check_mark: | Systems Programmer, UW Dept of Biochemistry |  |  |
 | `rapunzel` |  Caitlin Howell | Fall 1996 | Summer 1997 | :white_check_mark: |  |  |  |
+| `riccardo` | Riccardo Mutschlechner | Fall 2013 | Spring 2017 | :white_check_mark: | Visa, Riot Games | https://github.com/ricky54326 | Connoisseur of dank memes |
 | `sagamore` | Matt Beschta | Fall 1995 | Fall 1998 | :white_check_mark: | Systems Administrator, OSC Security Team, AT&T Wireless |  |  |
 | `schallit` | Kurt Schallitz  | ??? | ??? | :x: |  |  |  |
 | `sohail` | Alex Sohail | Fall 2012 | Spring 2015 | :white_check_mark: | Microsoft | https://github.com/elementrat |  |
