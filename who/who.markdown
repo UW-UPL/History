@@ -56,6 +56,7 @@
 | `loiterma` | Jon Loiterman | Fall 2000 | Spring 2001 | :white_check_mark: |  |  |  |
 | `longhair` | Derrick Dieringer | ??? | ??? | :x: | owner & principal instructor, art of dance |  |  |
 | `louise` | Louise Helenius | Fall 2001 | ??? | :white_check_mark: | Research & Development, Industrial Light & Magic |  |  |
+| `love` | Josh Love | Fall 2014 | Spring 2015 | :x: | UW-Madison Student Job Center, 6AM Marketing | http://kecos.us | i'll think of something witty eventually |
 | `lunatic` | Peter Bierman | Fall 1995 | Spring 1996 | :white_check_mark: | OS Software Engineer, Apple Computers |  |  |
 | `m_turner` | Michael Turner | Fall 1994 | Spring 1996 | :white_check_mark: | Web Developer, Network Appliance |  |  |
 | `malice` | Marc Beltmann | ??? | Spring 2000 | :x: |  |  |  |
