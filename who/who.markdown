@@ -98,6 +98,7 @@
 | `spy` | Mark Spychalla | ??? | ??? | :white_check_mark: | Data and Program Library Service, UW-Madison |  |  |
 | `srour` | Ben Srour  | ??? | ??? | :white_check_mark: | Student |  |  |
 | `stanis` | Thomas Stanis | Fall 1997 | Spring 1999 | :white_check_mark: | Game Programmer, Electronic Arts, "Medal of Honor" |  |  |
+| `stank` | Tyler Stank | Fall 2012 | Spring 2016 | :x: | Internet Scout sysadmin, Pilot Training System, Understory | https://github.com/tastank |  |
 | `stephane` | Stephane Blardone | Fall 2000 | Spring 2002 | :white_check_mark: | Software Engineer, Teramedica, Milwaukee |  |  |
 | `stroker` | Dennis Strelow | ??? | Spring 1994 | :white_check_mark: | PhD Student, Carnegie Mellon University |  |  |
 | `stroker` | Mark Stokosa | Fall 1997 | Spring 1999 | :white_check_mark: | Network Administrator, The Douglas Stewart Company |  |  |
