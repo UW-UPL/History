@@ -1139,6 +1139,16 @@
             "link": "http://kecos.us",
             "jobs": "UW-Madison Student Job Center, 6AM Marketing",
             "misc": "i'll think of something witty eventually"
+        },
+		{
+            "name": "Tyler Stank",
+            "username": "stank",
+            "start": "Fall 2012",
+            "end": "Spring 2016",
+            "coord": false,
+            "link": "https://github.com/tastank",
+            "jobs": "Internet Scout sysadmin, Pilot Training System, Understory",
+            "misc": ""
         }
     ]
 }
