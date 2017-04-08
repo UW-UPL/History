@@ -19,6 +19,7 @@
 | `craft` | Michelle Craft | Fall 1998 | ??? | :white_check_mark: | Programmer @ UW CS, Law Student |  |  |
 | `csch` | Chris Schulze | ??? | ??? | :white_check_mark: |  |  |  |
 | `dac` | Dave Carley | Spring 1994 | ??? | :white_check_mark: | Software Engineer @ Corel Corp |  |  |
+| `detter` | John Detter | Fall 2013 | Spring 2017 | :white_check_mark: | Vixonix Studios LLC |  |  |
 | `dickson` | Ross Dickson | ??? | Spring 2001 | :x: |  |  |  |
 | `dparter` | David Parter  | ??? | Spring 1991 | :x: | Asst. Director, CSL |  |  |
 | `dsb` | Dave Blumenthal | Summer 1993 | ??? | :white_check_mark: | Solidworks Corporation |  |  |
