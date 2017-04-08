@@ -1149,6 +1149,16 @@
             "link": "https://github.com/tastank",
             "jobs": "Internet Scout sysadmin, Pilot Training System, Understory",
             "misc": ""
+        },
+        {
+            "username": "swilson",
+            "name": "Sean Wilson",
+            "start": "Fall 2013",
+            "end": "Sprint 2017",
+            "coord": true,
+            "jobs": "",
+            "link": "https://github.com/spwilson2",
+            "misc": ""
         }
     ]
 }

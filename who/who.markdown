@@ -102,6 +102,7 @@
 | `stephane` | Stephane Blardone | Fall 2000 | Spring 2002 | :white_check_mark: | Software Engineer, Teramedica, Milwaukee |  |  |
 | `stroker` | Dennis Strelow | ??? | Spring 1994 | :white_check_mark: | PhD Student, Carnegie Mellon University |  |  |
 | `stroker` | Mark Stokosa | Fall 1997 | Spring 1999 | :white_check_mark: | Network Administrator, The Douglas Stewart Company |  |  |
+| `swilson` | Sean Wilson | Fall 2013 | Sprint 2017 | :white_check_mark: |  | https://github.com/spwilson2 |  |
 | `theboo` | Eric Bazan | ??? | ??? | :white_check_mark: |  |  |  |
 | `theorist` | Greg Thain | ??? | Spring 1990 | :x: | Condor Project, UW-Madison |  |  |
 | `theorist` | Josh Gross | ??? | Spring 1996 | :x: | PhD Student, Penn State |  |  |
