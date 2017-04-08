@@ -160,6 +160,16 @@
             "link": "",
             "misc": ""
         },
+	{
+            "username": "detter",
+            "name": "John Detter",
+            "start": "Fall 2013",
+            "end": "Spring 2017",
+            "coord": true,
+            "jobs": "Vixonix Studios LLC",
+            "link": "",
+            "misc": ""
+        },
         {
             "username": "dsb",
             "name": "Dave Blumenthal",
