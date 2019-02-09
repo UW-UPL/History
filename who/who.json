@@ -1,6 +1,16 @@
 {
     "who": [
         {
+            "name":"Leon Dinh",
+            "username":"leon",
+            "start":"Fall 2014",
+            "end":"Fall 2016",
+            "coord":"true",
+            "link":"https://www.linkedin.com/in/leon-dinh-136b8790/",
+            "jobs":"Microsoft",
+            "misc":""
+        },
+        {
             "username": "adept",
             "name": "Mark Mcullough",
             "start": "Fall 1995",
