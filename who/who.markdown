@@ -82,6 +82,7 @@
 | `peeper` | Craig Peeper | ??? | ??? | :white_check_mark: | Software Engineer, Microsoft |  |  |
 | `pitter` | Jacqueline Pitter  | ??? | Spring 2001 | :x: |  |  |  |
 | `ploor` | Derek Ploor | ??? | Spring 2003 | :x: |  |  |  |
+| `porthos` | Aaron Pavao | Fall 1994 | ??? | :x: | Computer Science Teacher, Consultant |  |  |
 | `psilord` | Pete Keller | Fall 1996 | Spring 1999 | :white_check_mark: | Systems Programmer and Obscure Knowledge Maintainer, Condor Project, UW-Madison |  |  |
 | `qsilver` | Jeff Obarski | Fall 1997 | Spring 1998 | :white_check_mark: | Systems Administrator, American Girl |  |  |
 | `quayle` | Doug Quayle | ??? | Spring 1992 | :white_check_mark: |  |  |  |
