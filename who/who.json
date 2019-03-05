@@ -1,6 +1,16 @@
 {
     "who": [
         {
+            "username":"porthos",
+            "name":"Aaron Pavao",
+            "start":"Fall 1994",
+            "end":"???",
+            "coord":false,
+            "jobs":"Computer Science Teacher, Consultant",
+            "link":"",
+            "misc":""
+        }
+        {
             "name":"Leon Dinh",
             "username":"leon",
             "start":"Fall 2014",
