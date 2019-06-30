@@ -54,6 +54,7 @@
 | `kimuchi` | Kim Wallace | Fall 1995 | Spring 1996 | :white_check_mark: | CM Engineer, Splunk |  |  |
 | `larry` | Larry Smith* | ??? | Spring 1992 | :white_check_mark: |  |  |  |
 | `leo` | Leo Rudberg | Fall 2012 | Spring 2016 | :white_check_mark: | WMS, WiNGS Lab/Paradrop, Exis, Intuit, Google | https://github.com/LOZORD/me |  |
+| `leon` | Leon Dinh | Fall 2014 | Fall 2016 | :white_check_mark: | Microsoft | https://www.linkedin.com/in/leon-dinh-136b8790/ |  |
 | `loiterma` | Jon Loiterman | Fall 2000 | Spring 2001 | :white_check_mark: |  |  |  |
 | `longhair` | Derrick Dieringer | ??? | ??? | :x: | owner & principal instructor, art of dance |  |  |
 | `louise` | Louise Helenius | Fall 2001 | ??? | :white_check_mark: | Research & Development, Industrial Light & Magic |  |  |
@@ -82,6 +83,7 @@
 | `peeper` | Craig Peeper | ??? | ??? | :white_check_mark: | Software Engineer, Microsoft |  |  |
 | `pitter` | Jacqueline Pitter  | ??? | Spring 2001 | :x: |  |  |  |
 | `ploor` | Derek Ploor | ??? | Spring 2003 | :x: |  |  |  |
+| `porthos` | Aaron Pavao | Fall 1994 | ??? | :x: | Computer Science Teacher, Consultant |  |  |
 | `psilord` | Pete Keller | Fall 1996 | Spring 1999 | :white_check_mark: | Systems Programmer and Obscure Knowledge Maintainer, Condor Project, UW-Madison |  |  |
 | `qsilver` | Jeff Obarski | Fall 1997 | Spring 1998 | :white_check_mark: | Systems Administrator, American Girl |  |  |
 | `quayle` | Doug Quayle | ??? | Spring 1992 | :white_check_mark: |  |  |  |
