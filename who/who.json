@@ -206,7 +206,7 @@
             "start": "???",
             "end": "???",
             "coord": true,
-            "jobs": "Navy, Nuclear Power",
+            "jobs": "RN, UW Hospital",
             "link": "",
             "misc": ""
         },
@@ -486,8 +486,8 @@
             "start": "Fall 1994",
             "end": "Spring 1996",
             "coord": true,
-            "jobs": "Web Developer, Network Appliance",
-            "link": "",
+            "jobs": "Software Engineer, State of Wisconsin",
+            "link": "https://github.com/shagie",
             "misc": ""
         },
         {
@@ -791,7 +791,7 @@
             "misc": ""
         },
         {
-            "username": "wonko",
+            "username": "zimage",
             "name": "Tim Nowaczyk",
             "start": "Fall 2000",
             "end": "Spring 2001",
@@ -871,7 +871,7 @@
             "misc": ""
         },
         {
-            "username": "grim",
+            "username": "gnat",
             "name": "Natira (Hammerstrom) Harris ",
             "start": "???",
             "end": "???",
