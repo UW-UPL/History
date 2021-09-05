@@ -23,14 +23,14 @@
 | `dickson` | Ross Dickson | ??? | Spring 2001 | :x: |  |  |  |
 | `dparter` | David Parter  | ??? | Spring 1991 | :x: | Asst. Director, CSL |  |  |
 | `dsb` | Dave Blumenthal | Summer 1993 | ??? | :white_check_mark: | Solidworks Corporation |  |  |
-| `dturner` | Dave Turner | ??? | ??? | :white_check_mark: | Navy, Nuclear Power |  |  |
+| `dturner` | Dave Turner | ??? | ??? | :white_check_mark: | RN, UW Hospital |  |  |
 | `dynerman` | David Dynerman | ??? | ??? | :white_check_mark: | Raven Software |  |  |
 | `ender` | Sam Williams | Fall 1997 | ??? | :white_check_mark: | Developer @ Microsoft |  |  |
 | `epaulson` | Erik Paulson | Fall 1996 | Spring 2001 | :white_check_mark: | Developer, Condor Project Grad Student, UW-Madison |  |  |
 | `etler` | Sam Etler | Summer 1997 | Spring 2000 | :x: | Phone Phreak, Tellme Systems |  |  |
 | `felix` | Erik Jacobsen | Fall 1994 | Spring 1996 | :white_check_mark: | Software Engineer, Power Line Systems |  |  |
 | `garret` | Garret Magin | Spring 2001 | Spring 2005 | :white_check_mark: | Software Engineer, Microsoft |  |  |
-| `grim` | Natira (Hammerstrom) Harris  | ??? | ??? | :x: | Genentech |  |  |
+| `gnat` | Natira (Hammerstrom) Harris  | ??? | ??? | :x: | Genentech |  |  |
 | `grim` | J Simon  | ??? | ??? | :x: |  |  |  |
 | `griswold` | Nate Griswold | ??? | ??? | :white_check_mark: | Student |  |  |
 | `gulfie` | Tom Rutledge | Fall 1995 | Fall 1996 | :white_check_mark: | Splunk |  |  |
@@ -60,7 +60,7 @@
 | `louise` | Louise Helenius | Fall 2001 | ??? | :white_check_mark: | Research & Development, Industrial Light & Magic |  |  |
 | `love` | Josh Love | Fall 2014 | Spring 2015 | :x: | UW-Madison Student Job Center, 6AM Marketing | http://kecos.us | i'll think of something witty eventually |
 | `lunatic` | Peter Bierman | Fall 1995 | Spring 1996 | :white_check_mark: | OS Software Engineer, Apple Computers |  |  |
-| `m_turner` | Michael Turner | Fall 1994 | Spring 1996 | :white_check_mark: | Web Developer, Network Appliance |  |  |
+| `m_turner` | Michael Turner | Fall 1994 | Spring 1996 | :white_check_mark: | Software Engineer, State of Wisconsin | https://github.com/shagie |  |
 | `malice` | Marc Beltmann | ??? | Spring 2000 | :x: |  |  |  |
 | `marcin` | Marcin Szymanski | Fall 2001 | ??? | :white_check_mark: | Games Programmer, Ensemble Studios |  |  |
 | `mblodget` | Mike Blodgett | ??? | ??? | :x: |  |  |  |
@@ -116,7 +116,7 @@
 | `will` | Will Mcdonald | Fall 1999 | Spring 2002 | :white_check_mark: | Systems/Database Administrator, Epic Systems |  |  |
 | `winstonc` | Winston Chang | Fall 1999 | Spring 2000 | :white_check_mark: | MIT, at the Brain and Cognitive Sciences group |  |  |
 | `wonko` | Eric Oehler | Fall 1993 | Spring 1995 | :white_check_mark: | Application Developer/Consultant, Beacon Technologies (also, international pop star) |  |  |
-| `wonko` | Tim Nowaczyk | Fall 2000 | Spring 2001 | :white_check_mark: | Sysadmin, UVA Dept. of Psychology |  |  |
 | `woodelf` | Nathaniel Barmore  | ??? | Spring 1999 | :x: |  |  |  |
+| `zimage` | Tim Nowaczyk | Fall 2000 | Spring 2001 | :white_check_mark: | Sysadmin, UVA Dept. of Psychology |  |  |
 | `zmiller` | Zach Miller | Fall 1998 | ??? | :white_check_mark: | Systems Programmer, Condor Project, UW Madison |  |  |
 
