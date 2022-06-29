@@ -2,20 +2,28 @@
 
 import json
 
+# Return the year of the start date with .5 added for spring dates
+def by_date(data_name, user):
+  date = user.get(data_name, '')
+  if date == '' or date == '???':
+    return 0
+  if date[0:6].lower() == "spring":
+    return int(date[-4:]) + .5
+  elif date[0:6].lower() == "winter":
+    return int(date[-4:]) + .25
+  else:
+    return int(date[-4:])
+
 # first open the input file for reading
 with open('./who.json', 'r') as who_file:
   # first load the data
   json_data = json.load(who_file)
   who_data = json_data['who']
 
-  # then sort it by (1) start date (2) username
-
-  # TODO: might need to map start date to something more suited for sorting
-  by_start_date  = lambda user: user.get('start', '') # start date not required
-  by_username    = lambda user: user['username']
-
-  sorted_data = sorted(who_data, key=by_start_date)
-  sorted_data = sorted(sorted_data, key=by_username)
+  # then sort it by priority of end date, then start date, then username
+  sorted_data = sorted(who_data, key=lambda user: user['username'])
+  sorted_data = sorted(sorted_data, key=lambda user: by_date('start', user))
+  sorted_data = sorted(sorted_data, key=lambda user: by_date('end', user))
 
 # now open the output file for writing
 with open('./who.markdown', 'w') as markdown_file:
