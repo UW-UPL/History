@@ -1189,6 +1189,16 @@
             "jobs": "",
             "link": "https://github.com/spwilson2",
             "misc": ""
+        },        
+	{
+            "name": "Matt Wildman",
+            "username": "wildman",
+            "start": "Spring 2018",
+            "end": "Spring 2022",
+            "coord": true,
+            "jobs": "Capital One, Facebook, Hudson River Trading",
+            "link": "https://www.linkedin.com/in/matt-wildman/",
+            "misc": "Sorry about the fridge"
         }
     ]
 }
