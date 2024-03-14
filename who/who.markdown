@@ -39,7 +39,7 @@
 | `zmiller` | Zach Miller | Fall 1998 | ??? | :white_check_mark: | Systems Programmer, Condor Project, UW Madison |  |  |
 | `amohr` | Alex Mohr | Fall 1999 | ??? | :white_check_mark: | Pixar |  |  |
 | `charkins` | Casey Harkins | Fall 1999 | ??? | :white_check_mark: |  |  |  |
-| `hupp` | Adam Hupp | Fall 1999 | ??? | :white_check_mark: | Software Engineer, Emageon |  |  |
+| `hupp` | Adam Hupp | Fall 1999 | ??? | :white_check_mark: | OpenAI, Facebook |  |  |
 | `jeffreyp` | Jeffrey Peterson | Spring 1999 | ??? | :white_check_mark: | Technology Manager, Start Renting Inc. |  |  |
 | `alyska` | Alyska Bailey | Fall 2000 | ??? | :white_check_mark: | Multimediatrix, Wisconsin Alumni Association, PointyKitty Studios |  |  |
 | `aselle` | Andy Selle | Fall 2000 | ??? | :white_check_mark: | PhD @ Stanford |  |  |
