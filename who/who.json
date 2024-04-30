@@ -1199,6 +1199,16 @@
             "jobs": "Capital One, Facebook, Hudson River Trading",
             "link": "https://www.linkedin.com/in/matt-wildman/",
             "misc": "Sorry about the fridge"
+        },
+	{
+            "name": "Ben Wallen",
+            "username": "wallen",
+            "start": "Fall 2021",
+            "end": "Spring 2024",
+            "coord": true,
+            "jobs": "Cigna, Mastercard, Netflix",
+            "link": "https://www.linkedin.com/in/wallenben/",
+            "misc": ""
         }
     ]
 }

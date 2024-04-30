@@ -39,7 +39,7 @@
 | `zmiller` | Zach Miller | Fall 1998 | ??? | :white_check_mark: | Systems Programmer, Condor Project, UW Madison |  |  |
 | `amohr` | Alex Mohr | Fall 1999 | ??? | :white_check_mark: | Pixar |  |  |
 | `charkins` | Casey Harkins | Fall 1999 | ??? | :white_check_mark: |  |  |  |
-| `hupp` | Adam Hupp | Fall 1999 | ??? | :white_check_mark: | OpenAI, Facebook |  |  |
+| `hupp` | Adam Hupp | Fall 1999 | ??? | :white_check_mark: | Software Engineer, Emageon |  |  |
 | `jeffreyp` | Jeffrey Peterson | Spring 1999 | ??? | :white_check_mark: | Technology Manager, Start Renting Inc. |  |  |
 | `alyska` | Alyska Bailey | Fall 2000 | ??? | :white_check_mark: | Multimediatrix, Wisconsin Alumni Association, PointyKitty Studios |  |  |
 | `aselle` | Andy Selle | Fall 2000 | ??? | :white_check_mark: | PhD @ Stanford |  |  |
@@ -99,7 +99,7 @@
 | `pitter` | Jacqueline Pitter  | ??? | Spring 2001 | :x: |  |  |  |
 | `epaulson` | Erik Paulson | Fall 1996 | Spring 2001 | :white_check_mark: | Developer, Condor Project Grad Student, UW-Madison |  |  |
 | `loiterma` | Jon Loiterman | Fall 2000 | Spring 2001 | :white_check_mark: |  |  |  |
-| `zimage` | Tim Nowaczyk | Fall 2000 | Spring 2001 | :white_check_mark: | Sysadmin, UVA Dept. of Psychology |  |  |
+| `zimage` | Tim Nowaczyk | Fall 2000 | Spring 2001 | :white_check_mark: | Cheif Network Architect - All Points Broadband | https://www.linkedin.com/in/zimage/ |  |
 | `mott` | Christine Mott  | ??? | Fall 2002 | :x: | Duluth Trading Company |  |  |
 | `will` | Will Mcdonald | Fall 1999 | Spring 2002 | :white_check_mark: | Systems/Database Administrator, Epic Systems |  |  |
 | `stephane` | Stephane Blardone | Fall 2000 | Spring 2002 | :white_check_mark: | Software Engineer, Teramedica, Milwaukee |  |  |
@@ -120,4 +120,5 @@
 | `detter` | John Detter | Fall 2013 | Spring 2017 | :white_check_mark: | Vixonix Studios LLC |  |  |
 | `riccardo` | Riccardo Mutschlechner | Fall 2013 | Spring 2017 | :white_check_mark: | Visa, Riot Games | https://github.com/ricky54326 | Connoisseur of dank memes |
 | `wildman` | Matt Wildman | Spring 2018 | Spring 2022 | :white_check_mark: | Capital One, Facebook, Hudson River Trading | https://www.linkedin.com/in/matt-wildman/ | Sorry about the fridge |
+| `wallen` | Ben Wallen | Fall 2021 | Spring 2024 | :white_check_mark: | Cigna, Mastercard, Netflix | https://www.linkedin.com/in/wallenben/ |  |
 
