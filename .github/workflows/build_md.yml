@@ -1,0 +1,31 @@
+name: Update README
+
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+      
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.11'
+
+      - name: Run refresh.py script
+        run: |
+          cd who && python make_who.py
+
+      - name: Commit and Push if changes
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add who/who.markdown
+          git commit -m "Updated who.markdown" || echo "No changes to commit"
+          git push
