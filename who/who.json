@@ -1209,6 +1209,16 @@
             "jobs": "Cigna, Mastercard, Netflix",
             "link": "https://www.linkedin.com/in/wallenben/",
             "misc": ""
+        },
+        {
+            "name": "David Teather",
+            "username": "davidteather",
+            "start": "Fall 2024",
+            "end": "Spring 2024",
+            "coord": true,
+            "jobs": "Trendpop, Warner Music Group, Collab, CrowdStrike",
+            "link": "https://www.linkedin.com/in/davidteather/",
+            "misc": ""
         }
     ]
 }
