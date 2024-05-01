@@ -121,9 +121,9 @@
 | `riccardo` | Riccardo Mutschlechner | Fall 2013 | Spring 2017 | :white_check_mark: | Visa, Riot Games | https://github.com/ricky54326 | Connoisseur of dank memes |
 | `wildman` | Matt Wildman | Spring 2018 | Spring 2022 | :white_check_mark: | Capital One, Facebook, Hudson River Trading | https://www.linkedin.com/in/matt-wildman/ | Sorry about the fridge |
 | `wallen` | Ben Wallen | Fall 2021 | Spring 2024 | :white_check_mark: | Cigna, Mastercard, Netflix | https://www.linkedin.com/in/wallenben/ |  |
-| `jasmith55` | Jake Smith | Fall 2023 | Spring 2024 | :x: | SWE Intern @ Abbvie, DSSD | Database Management Intern @ Quantum Real Estate Advisors | https://www.linkedin.com/in/jasmith55/ | WAGMI |
+| `jasmith55` | Jake Smith | Fall 2023 | Spring 2024 | :x: | SWE Intern @ Abbvie, DSSD \| Database Management Intern @ Quantum Real Estate Advisors | https://www.linkedin.com/in/jasmith55/ | WAGMI |
 | `mxudev` | Jerry Xu | Fall 2023 | Spring 2024 | :x: |  | jerryxu.io | 💀 |
 | `scharenbroch` | Lucas Scharenbroch | Fall 2023 | Spring 2024 | :x: | Acuity Insurance | https://scharenbroch.dev |  |
-| `Mihir-Achyuta` | Mihir Achyuta | Spring 2023 | Spring 2024 | :white_check_mark: | SWE Intern @ Facebook, Rippling, ZipRecruiter | SWE @ ZipRecruiter | mihirachyuta.me | 🛌 |
+| `Mihir-Achyuta` | Mihir Achyuta | Spring 2023 | Spring 2024 | :white_check_mark: | SWE Intern @ Facebook, Rippling, ZipRecruiter \| SWE @ ZipRecruiter | mihirachyuta.me | 🛌 |
 | `davidteather` | David Teather | Fall 2024 | Spring 2024 | :white_check_mark: | Trendpop, Warner Music Group, Collab, CrowdStrike | https://www.linkedin.com/in/davidteather/ | 😎 |
 
