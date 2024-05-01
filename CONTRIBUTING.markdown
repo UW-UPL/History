@@ -28,4 +28,4 @@ $ (cd who && python make_who.py)
 
 Please make sure your contributions are SFW/PG-13 and respectful!
 
-If you have any questions, please contact the [Coords](https://uw-upl.github.io/#/coords).
+If you have any questions, please contact the [Coords](https://uw-upl.github.io/coords).
