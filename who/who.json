@@ -1239,6 +1239,26 @@
 	  "link": "mihirachyuta.me",
 	  "jobs": "SWE Intern @ Facebook, Rippling, ZipRecruiter | SWE @ ZipRecruiter",
 	  "misc": "🛌"
+	},
+	{
+	  "name": "Jerry Xu",
+	  "username": "mxudev",
+	  "start": "Fall 2023",
+	  "end": "Spring 2024",
+	  "coord": false,
+	  "link": "jerryxu.io",
+	  "jobs": "",
+	  "misc": "💀"
+	},
+	{
+	  "name": "Jake Smith",
+	  "username": "jasmith55",
+	  "start": "Fall 2023",
+	  "end": "Spring 2024",
+	  "coord": false,
+	  "link": "https://www.linkedin.com/in/jasmith55/",
+	  "jobs": "SWE Intern @ Abbvie, DSSD | Database Management Intern @ Quantum Real Estate Advisors",
+	  "misc": "WAGMI"
 	}
     ]
 }
