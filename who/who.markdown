@@ -125,5 +125,5 @@
 | `mxudev` | Jerry Xu | Fall 2023 | Spring 2024 | :x: |  | jerryxu.io | 💀 |
 | `scharenbroch` | Lucas Scharenbroch | Fall 2023 | Spring 2024 | :x: | Acuity Insurance | https://scharenbroch.dev |  |
 | `Mihir-Achyuta` | Mihir Achyuta | Spring 2023 | Spring 2024 | :white_check_mark: | SWE Intern @ Facebook, Rippling, ZipRecruiter | SWE @ ZipRecruiter | mihirachyuta.me | 🛌 |
-| `davidteather` | David Teather | Fall 2024 | Spring 2024 | :white_check_mark: | Trendpop, Warner Music Group, Collab, CrowdStrike | https://www.linkedin.com/in/davidteather/ | 😎 |
-
+| `davidteather` | David Teather | Fall 2023 | Spring 2024 | :white_check_mark: | Trendpop, Warner Music Group, Collab, CrowdStrike | https://www.linkedin.com/in/davidteather/ | 😎 |
+| `gsteinmetz` | Grace Steinmetz | Fall 2023 | Spring 2024 | :white_check_mark: | X-ES Software Enginnering | https://www.linkedin.com/in/gracesteinmetz/ | | |
