@@ -1201,6 +1201,16 @@
             "misc": "Sorry about the fridge"
         },
 	{
+            "name": "Reed Nelson",
+            "username": "reednel",
+            "start": "Fall 2020",
+            "end": "Spring 2023",
+            "coord": true,
+            "jobs": "Infinite Campus",
+            "link": "https://reednel.com",
+            "misc": ""
+        }, 
+	{
             "name": "Ben Wallen",
             "username": "wallen",
             "start": "Fall 2021",
