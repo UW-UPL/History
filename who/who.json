@@ -1269,6 +1269,16 @@
 	  "link": "https://www.linkedin.com/in/jasmith55/",
 	  "jobs": "SWE Intern @ Abbvie, DSSD | Database Management Intern @ Quantum Real Estate Advisors",
 	  "misc": "WAGMI"
-	}
+	},
+    {
+        "name": "Nick Winans",
+        "username": "winans",
+        "start": "Spring 2021",
+        "end": "Spring 2023",
+        "coord": true,
+        "link": "https://nick.winans.io",
+        "jobs": "Roblox, Keyboard Guy",
+        "misc": "Don't go to the UPL at 3am"
+    }
     ]
 }
