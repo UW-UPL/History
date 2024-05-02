@@ -53,7 +53,9 @@ with open('./who.markdown', 'w') as markdown_file:
     misc      = user.get('misc', '')
 
     row_entry = '\n| `%s` | %s | %s | %s | %s | %s | %s | %s |'
-    row_entry %= (username, name, start, end, coord_emoji, jobs, link, misc)
+    cols = (username, name, start, end, coord_emoji, jobs, link, misc)
+    cols = tuple(c.replace('|', '\|') for c in cols)
+    row_entry %= cols
 
     markdown_file.write(row_entry)
 

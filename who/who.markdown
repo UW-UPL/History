@@ -123,9 +123,9 @@
 | `reednel` | Reed Nelson | Fall 2020 | Spring 2023 | :white_check_mark: | Infinite Campus | https://reednel.com |  |
 | `winans` | Nick Winans | Spring 2021 | Spring 2023 | :white_check_mark: | Roblox, Keyboard Guy | https://nick.winans.io | Don't go to the UPL at 3am |
 | `wallen` | Ben Wallen | Fall 2021 | Spring 2024 | :white_check_mark: | Cigna, Mastercard, Netflix | https://www.linkedin.com/in/wallenben/ |  |
-| `jasmith55` | Jake Smith | Fall 2023 | Spring 2024 | :x: | SWE Intern @ Abbvie, DSSD | Database Management Intern @ Quantum Real Estate Advisors | https://www.linkedin.com/in/jasmith55/ | WAGMI |
+| `jasmith55` | Jake Smith | Fall 2023 | Spring 2024 | :x: | SWE Intern @ Abbvie, DSSD \| Database Management Intern @ Quantum Real Estate Advisors | https://www.linkedin.com/in/jasmith55/ | WAGMI |
 | `mxudev` | Jerry Xu | Fall 2023 | Spring 2024 | :x: |  | jerryxu.io | 💀 |
 | `scharenbroch` | Lucas Scharenbroch | Fall 2023 | Spring 2024 | :x: | Acuity Insurance | https://scharenbroch.dev |  |
-| `Mihir-Achyuta` | Mihir Achyuta | Spring 2023 | Spring 2024 | :white_check_mark: | SWE Intern @ Facebook, Rippling, ZipRecruiter | SWE @ ZipRecruiter | mihirachyuta.me | 🛌 |
+| `Mihir-Achyuta` | Mihir Achyuta | Spring 2023 | Spring 2024 | :white_check_mark: | SWE Intern @ Facebook, Rippling, ZipRecruiter \| SWE @ ZipRecruiter | mihirachyuta.me | 🛌 |
 | `davidteather` | David Teather | Fall 2024 | Spring 2024 | :white_check_mark: | Trendpop, Warner Music Group, Collab, CrowdStrike | https://www.linkedin.com/in/davidteather/ | 😎 |
 
