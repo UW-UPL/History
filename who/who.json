@@ -1280,5 +1280,15 @@
         "jobs": "Roblox, Keyboard Guy",
         "misc": "Don't go to the UPL at 3am"
     }
+    {
+        "name": "Grace Steinmetz",
+        "username": "ClearCrystals",
+        "start": "Fall 2023",
+        "end": "Fall 2024",
+        "coord": true,
+        "link": "https://www.linkedin.com/in/gracesteinmetz/",
+        "jobs": "X-ES",
+        "misc": "I think I will be known for doing Madhacks taxes"
+    }
     ]
 }
