@@ -1289,6 +1289,16 @@
         "link": "https://www.linkedin.com/in/gracesteinmetz/",
         "jobs": "X-ES",
         "misc": "I think I will be known for doing Madhacks taxes"
-    	}
+    	},
+	{
+        "name": "Michael Berkey",
+        "username": "mdberkey",
+        "start": "Spring 2021",
+        "end": "Fall 2024",
+        "coord": true,
+        "link": "https://www.linkedin.com/in/michael-berkey1/",
+        "jobs": "State Farm, Capital One",
+        "misc": "Send me funny UPL stories :]"
+	}
     ]
 }
