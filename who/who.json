@@ -1299,6 +1299,16 @@
         "link": "https://www.linkedin.com/in/michael-berkey1/",
         "jobs": "State Farm, Capital One",
         "misc": "Send me funny UPL stories :]"
+	},
+	{
+	"name": "Benjamin Lash",
+	"username:": "Blash20",
+	"start": "Fall 2023",
+	"end": "Spring 2023",
+	"coord": true,
+	"link": "https://www.linkedin.com/in/benjamin-lash/",
+	"jobs": "REU Intern @ UNT | REU Intern at NCSA, UIUC",
+	"misc": "farewell and goodbye"
 	}
     ]
 }
