@@ -1299,6 +1299,16 @@
         "link": "https://www.linkedin.com/in/michael-berkey1/",
         "jobs": "State Farm, Capital One",
         "misc": "Send me funny UPL stories :]"
-	}
+	},
+    {
+        "name": "Michael Gira",
+        "username": "mgira",
+        "start": "Fall 2020",
+        "end": "Spring 2023",
+        "coord": true,
+        "link": "https://gira.dev",
+        "jobs": "Microsoft, 3M",
+        "misc": ""
+    }
     ]
 }
