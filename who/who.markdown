@@ -126,6 +126,7 @@
 | `mdberkey` | Michael Berkey | Spring 2021 | Fall 2024 | :white_check_mark: | State Farm, Capital One | https://www.linkedin.com/in/michael-berkey1/ | Send me funny UPL stories :] |
 | `ClearCrystals` | Grace Steinmetz | Fall 2023 | Fall 2024 | :white_check_mark: | X-ES | https://www.linkedin.com/in/gracesteinmetz/ | I think I will be known for doing Madhacks taxes |
 | `wallen` | Ben Wallen | Fall 2021 | Spring 2024 | :white_check_mark: | Cigna, Mastercard, Netflix | https://www.linkedin.com/in/wallenben/ |  |
+| `Blash20` | Benjamin Lash | Fall 2023 | Spring 2024 | :white_check_mark: | REU Intern @ UNT \| REU Intern at NCSA, UIUC | https://www.linkedin.com/in/benjamin-lash/ | farewell and goodbye |
 | `jasmith55` | Jake Smith | Fall 2023 | Spring 2024 | :x: | SWE Intern @ Abbvie, DSSD \| Database Management Intern @ Quantum Real Estate Advisors | https://www.linkedin.com/in/jasmith55/ | WAGMI |
 | `mxudev` | Jerry Xu | Fall 2023 | Spring 2024 | :x: |  | jerryxu.io | 💀 |
 | `scharenbroch` | Lucas Scharenbroch | Fall 2023 | Spring 2024 | :x: | Acuity Insurance | https://scharenbroch.dev |  |
