@@ -1300,7 +1300,17 @@
         "jobs": "State Farm, Capital One",
         "misc": "Send me funny UPL stories :]"
 	},
-	{
+    {
+        "name": "Michael Gira",
+        "username": "mgira",
+        "start": "Fall 2020",
+        "end": "Spring 2023",
+        "coord": true,
+        "link": "https://gira.dev",
+        "jobs": "Microsoft, 3M",
+        "misc": ""
+    },
+      	{
 	"name": "Benjamin Lash",
 	"username:": "Blash20",
 	"start": "Fall 2023",

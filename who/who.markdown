@@ -120,6 +120,7 @@
 | `detter` | John Detter | Fall 2013 | Spring 2017 | :white_check_mark: | Vixonix Studios LLC |  |  |
 | `riccardo` | Riccardo Mutschlechner | Fall 2013 | Spring 2017 | :white_check_mark: | Visa, Riot Games | https://github.com/ricky54326 | Connoisseur of dank memes |
 | `wildman` | Matt Wildman | Spring 2018 | Spring 2022 | :white_check_mark: | Capital One, Facebook, Hudson River Trading | https://www.linkedin.com/in/matt-wildman/ | Sorry about the fridge |
+| `mgira` | Michael Gira | Fall 2020 | Spring 2023 | :white_check_mark: | Microsoft, 3M | https://gira.dev |  |
 | `reednel` | Reed Nelson | Fall 2020 | Spring 2023 | :white_check_mark: | Infinite Campus | https://reednel.com |  |
 | `winans` | Nick Winans | Spring 2021 | Spring 2023 | :white_check_mark: | Roblox, Keyboard Guy | https://nick.winans.io | Don't go to the UPL at 3am |
 | `mdberkey` | Michael Berkey | Spring 2021 | Fall 2024 | :white_check_mark: | State Farm, Capital One | https://www.linkedin.com/in/michael-berkey1/ | Send me funny UPL stories :] |
