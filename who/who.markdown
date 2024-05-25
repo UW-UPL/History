@@ -118,7 +118,7 @@
 | `heindl` | Nick Heindl | Spring 2012 | Spring 2016 | :white_check_mark: | Mobile Learning Incubator, Amazon, Raven Software | https://github.com/katamaritaco/me  http://nheindl.com |  |
 | `swilson` | Sean Wilson | Fall 2013 | Sprint 2017 | :white_check_mark: |  | https://github.com/spwilson2 |  |
 | `detter` | John Detter | Fall 2013 | Spring 2017 | :white_check_mark: | Vixonix Studios LLC |  |  |
-| `riccardo` | Riccardo Mutschlechner | Fall 2013 | Spring 2017 | :white_check_mark: | Visa, Riot Games | https://github.com/ricky54326 | Connoisseur of dank memes |
+| `riccardo` | Ricky Mutschlechner | Fall 2013 | Spring 2015, 2017 | :white_check_mark: | Google, Meta / Facebook, Riot Games, Visa | https://github.com/wowsuchricky | Connoisseur of dank memes |
 | `wildman` | Matt Wildman | Spring 2018 | Spring 2022 | :white_check_mark: | Capital One, Facebook, Hudson River Trading | https://www.linkedin.com/in/matt-wildman/ | Sorry about the fridge |
 | `mgira` | Michael Gira | Fall 2020 | Spring 2023 | :white_check_mark: | Microsoft, 3M | https://gira.dev |  |
 | `reednel` | Reed Nelson | Fall 2020 | Spring 2023 | :white_check_mark: | Infinite Campus | https://reednel.com |  |
