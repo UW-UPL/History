@@ -115,7 +115,7 @@
 | `leo` | Leo Rudberg | Fall 2012 | Spring 2016 | :white_check_mark: | WMS, WiNGS Lab/Paradrop, Exis, Intuit, Google | https://github.com/LOZORD/me |  |
 | `mneil` | Matt Neil | Fall 2012 | Spring 2016 | :white_check_mark: | Brightcove, Inc. | https://github.com/mjneil |  |
 | `stank` | Tyler Stank | Fall 2012 | Spring 2016 | :x: | Internet Scout sysadmin, Pilot Training System, Understory | https://github.com/tastank |  |
-| `heindl` | Nick Heindl | Spring 2012 | Spring 2016 | :white_check_mark: | Mobile Learning Incubator, Amazon, Raven Software | https://github.com/katamaritaco/me  http://nheindl.com |  |
+| `heindl` | Nick Heindl | Spring 2012 | Spring 2016 | :white_check_mark: | Mobile Learning Incubator, Amazon, Raven Software, PUBG, ZeniMax Online Studios | http://nheindl.com | Game Dev in Madison! |
 | `swilson` | Sean Wilson | Fall 2013 | Sprint 2017 | :white_check_mark: |  | https://github.com/spwilson2 |  |
 | `detter` | John Detter | Fall 2013 | Spring 2017 | :white_check_mark: | Vixonix Studios LLC |  |  |
 | `riccardo` | Ricky Mutschlechner | Fall 2013 | Spring 2015, 2017 | :white_check_mark: | Google, Meta / Facebook, Riot Games, Visa | https://github.com/wowsuchricky | Connoisseur of dank memes |
