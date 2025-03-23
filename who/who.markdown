@@ -123,6 +123,7 @@
 | `mgira` | Michael Gira | Fall 2020 | Spring 2023 | :white_check_mark: | Microsoft, 3M | https://gira.dev |  |
 | `reednel` | Reed Nelson | Fall 2020 | Spring 2023 | :white_check_mark: | Infinite Campus | https://reednel.com |  |
 | `winans` | Nick Winans | Spring 2021 | Spring 2023 | :white_check_mark: | Roblox, Keyboard Guy | https://nick.winans.io | Don't go to the UPL at 3am |
+| `ChristopherGottwaldt` | Chris Gottwaldt | Fall 2021 | Fall 2024 | :white_check_mark: | MGE, X-ES, DoIT | https://www.linkedin.com/in/christophergottwaldt/ | Thanks everyone :) |
 | `mdberkey` | Michael Berkey | Spring 2021 | Fall 2024 | :white_check_mark: | State Farm, Capital One | https://www.linkedin.com/in/michael-berkey1/ | Send me funny UPL stories :] |
 | `ClearCrystals` | Grace Steinmetz | Fall 2023 | Fall 2024 | :white_check_mark: | X-ES | https://www.linkedin.com/in/gracesteinmetz/ | I think I will be known for doing Madhacks taxes |
 | `wallen` | Ben Wallen | Fall 2021 | Spring 2024 | :white_check_mark: | Cigna, Mastercard, Netflix | https://www.linkedin.com/in/wallenben/ |  |
