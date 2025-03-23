@@ -1319,6 +1319,16 @@
             "link": "https://www.linkedin.com/in/benjamin-lash/",
             "jobs": "REU Intern @ UNT | REU Intern at NCSA, UIUC",
             "misc": "farewell and goodbye"
-        }
+        },
+        {
+          "name": "Chris Gottwaldt",
+          "username": "ChristopherGottwaldt",
+          "start": "Fall 2021",
+          "end": "Fall 2024",
+          "coord": true,
+          "link": "https://www.linkedin.com/in/christophergottwaldt/",
+          "jobs": "MGE, X-ES, DoIT",
+          "misc": "Thanks everyone :)"
+      }
     ]
 }
