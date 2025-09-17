@@ -114,7 +114,7 @@
 | `leon` | Leon Dinh | Fall 2014 | Fall 2016 | :white_check_mark: | Microsoft | https://www.linkedin.com/in/leon-dinh-136b8790/ |  |
 | `leo` | Leo Rudberg | Fall 2012 | Spring 2016 | :white_check_mark: | WMS, WiNGS Lab/Paradrop, Exis, Intuit, Google | https://github.com/LOZORD/me |  |
 | `mneil` | Matt Neil | Fall 2012 | Spring 2016 | :white_check_mark: | Brightcove, Inc. | https://github.com/mjneil |  |
-| `stank` | Tyler Stank | Fall 2012 | Spring 2016 | :x: | Internet Scout sysadmin, Pilot Training System, Understory | https://github.com/tastank |  |
+| `stank` | Tyler Stank | Fall 2012 | Spring 2016 | :x: | X-ES, EatStreet, Garmin | https://github.com/tastank | Pilot/Flight Instructor, 24 Hours of Lemons driver/team owner (The Last and the Ludicrous), musician |
 | `heindl` | Nick Heindl | Spring 2012 | Spring 2016 | :white_check_mark: | Mobile Learning Incubator, Amazon, Raven Software, PUBG, ZeniMax Online Studios | http://nheindl.com | Game Dev in Madison! |
 | `swilson` | Sean Wilson | Fall 2013 | Sprint 2017 | :white_check_mark: |  | https://github.com/spwilson2 |  |
 | `detter` | John Detter | Fall 2013 | Spring 2017 | :white_check_mark: | Vixonix Studios LLC |  |  |
