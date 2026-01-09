@@ -130,7 +130,7 @@
 | `Blash20` | Benjamin Lash | Fall 2023 | Spring 2024 | :white_check_mark: | REU Intern @ UNT \| REU Intern at NCSA, UIUC | https://www.linkedin.com/in/benjamin-lash/ | farewell and goodbye |
 | `jasmith55` | Jake Smith | Fall 2023 | Spring 2024 | :x: | SWE Intern @ Abbvie, DSSD \| Database Management Intern @ Quantum Real Estate Advisors | https://www.linkedin.com/in/jasmith55/ | WAGMI |
 | `mxudev` | Jerry Xu | Fall 2023 | Spring 2024 | :x: |  | jerryxu.io | 💀 |
-| `scharenbroch` | Lucas Scharenbroch | Fall 2023 | Spring 2024 | :x: | Acuity Insurance | https://scharenbroch.dev |  |
+| `scharenbroch` | Lucas Scharenbroch | Fall 2023 | Spring 2024 | :x: | Acuity, Anduril | https://scharenbroch.dev | 🪂 |
 | `Mihir-Achyuta` | Mihir Achyuta | Spring 2023 | Spring 2024 | :white_check_mark: | SWE Intern @ Facebook, Rippling, ZipRecruiter \| SWE @ ZipRecruiter | mihirachyuta.me | 🛌 |
 | `davidteather` | David Teather | Fall 2024 | Spring 2024 | :white_check_mark: | Trendpop, Warner Music Group, Collab, CrowdStrike | https://www.linkedin.com/in/davidteather/ | 😎 |
 

@@ -54,7 +54,7 @@ with open('./who.markdown', 'w') as markdown_file:
 
     row_entry = '\n| `%s` | %s | %s | %s | %s | %s | %s | %s |'
     cols = (username, name, start, end, coord_emoji, jobs, link, misc)
-    cols = tuple(c.replace('|', '\|') for c in cols)
+    cols = tuple(c.replace('|', '\\|') for c in cols)
     row_entry %= cols
 
     markdown_file.write(row_entry)
