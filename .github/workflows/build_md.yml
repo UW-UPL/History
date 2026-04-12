@@ -11,14 +11,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
-        uses: actions/checkout@v2
-      
-      - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: '3.11'
+        uses: actions/checkout@v4
 
-      - name: Run refresh.py script
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run make_who.py script
         run: |
           cd who && python make_who.py
 
@@ -26,6 +26,6 @@ jobs:
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
-          git add who/who.markdown
-          git commit -m "Updated who.markdown" || echo "No changes to commit"
+          git add who/who.md
+          git commit -m "Update who.md" || echo "No changes to commit"
           git push

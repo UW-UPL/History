@@ -1,62 +1,46 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 import json
 
-# Return the year of the start date with .5 added for spring dates
-def by_date(data_name, user):
-  date = user.get(data_name, '')
-  if date == '' or date == '???':
-    return 0
-  if date[0:6].lower() == "spring":
-    return int(date[-4:]) + .5
-  elif date[0:6].lower() == "winter":
-    return int(date[-4:]) + .25
-  else:
-    return int(date[-4:])
 
-# first open the input file for reading
-with open('./who.json', 'r') as who_file:
-  # first load the data
-  json_data = json.load(who_file)
-  who_data = json_data['who']
+def sort_key(user):
+    """Sort by end date, then start date, then username."""
+    return (parse_date(user, "end"), parse_date(user, "start"), user["username"])
 
-  # then sort it by priority of end date, then start date, then username
-  sorted_data = sorted(who_data, key=lambda user: user['username'])
-  sorted_data = sorted(sorted_data, key=lambda user: by_date('start', user))
-  sorted_data = sorted(sorted_data, key=lambda user: by_date('end', user))
 
-# now open the output file for writing
-with open('./who.markdown', 'w') as markdown_file:
-  table_header  = '| Username | Name | Start | End | Coord? | Jobs | Link | Misc. |\n'
-  table_header += '| ---------|------|-------|-----|--------|------|------|------ |\n'
+def parse_date(user, field):
+    """Return a numeric sort key for a semester date string."""
+    date = user.get(field, "")
+    if not date or date == "???":
+        return 0
+    season = date.split()[0].lower()
+    year = int(date.split()[-1])
+    offsets = {"spring": 0.5, "winter": 0.25}
+    return year + offsets.get(season, 0)
 
-  table_header = table_header.strip()
 
-  markdown_file.write(table_header)
+with open("./who.json") as f:
+    who_data = json.load(f)["who"]
 
-  for user in sorted_data:
+sorted_data = sorted(who_data, key=sort_key)
 
-    # first set the emoji for the coord status
-    # emojis are supported assuming this is put on GitHub via GFM
-    coord_emoji = None
-    if user.get('coord', False):
-      coord_emoji = ':white_check_mark:'
-    else:
-      coord_emoji = ':x:'
+with open("./who.md", "w") as out:
+    out.write("| Username | Name | Start | End | Coord? | Jobs | Link | Misc. |\n")
+    out.write("| ---------|------|-------|-----|--------|------|------|------ |")
 
-    name      = user['name']      # should throw error if DNE
-    username  = user['username']  # should throw error if DNE
-    start     = user.get('start', '???')
-    end       = user.get('end',   '???')
-    jobs      = user.get('jobs', '')
-    link      = user.get('link', '')
-    misc      = user.get('misc', '')
+    for user in sorted_data:
+        coord = ":white_check_mark:" if user.get("coord", False) else ":x:"
+        cols = [
+            f"`{user['username']}`",
+            user["name"],
+            user.get("start", "???"),
+            user.get("end", "???"),
+            coord,
+            user.get("jobs", ""),
+            user.get("link", ""),
+            user.get("misc", ""),
+        ]
+        row = "| " + " | ".join(c.replace("|", "\\|") for c in cols) + " |"
+        out.write(f"\n{row}")
 
-    row_entry = '\n| `%s` | %s | %s | %s | %s | %s | %s | %s |'
-    cols = (username, name, start, end, coord_emoji, jobs, link, misc)
-    cols = tuple(c.replace('|', '\\|') for c in cols)
-    row_entry %= cols
-
-    markdown_file.write(row_entry)
-
-  markdown_file.write('\n\n')
+    out.write("\n\n")

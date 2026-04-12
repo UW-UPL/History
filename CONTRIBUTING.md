@@ -1,6 +1,6 @@
 # Contributing
 
-We glady accept contributions!
+We gladly accept contributions!
 
 You can either edit this repo on GitHub (look for the :pencil2: icon),
 or you can clone the repo:
@@ -15,7 +15,7 @@ $ cd upl-history
 
 Things we accept are:
 - Additions to the `who` project
-- Stories and annecdotes similar to those on the `alyska` site _(currently unsupported)_
+- Stories and anecdotes similar to those on the `alyska` site _(currently unsupported)_
 
 ## Notes
 

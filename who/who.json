@@ -15,7 +15,7 @@
             "username": "leon",
             "start": "Fall 2014",
             "end": "Fall 2016",
-            "coord": "true",
+            "coord": true,
             "link": "https://www.linkedin.com/in/leon-dinh-136b8790/",
             "jobs": "Microsoft",
             "misc": ""
@@ -1321,14 +1321,14 @@
             "misc": "farewell and goodbye"
         },
         {
-          "name": "Chris Gottwaldt",
-          "username": "ChristopherGottwaldt",
-          "start": "Fall 2021",
-          "end": "Fall 2024",
-          "coord": true,
-          "link": "https://www.linkedin.com/in/christophergottwaldt/",
-          "jobs": "MGE, X-ES, DoIT",
-          "misc": "Thanks everyone :)"
-      }
+            "name": "Chris Gottwaldt",
+            "username": "ChristopherGottwaldt",
+            "start": "Fall 2021",
+            "end": "Fall 2024",
+            "coord": true,
+            "link": "https://www.linkedin.com/in/christophergottwaldt/",
+            "jobs": "MGE, X-ES, DoIT",
+            "misc": "Thanks everyone :)"
+        }
     ]
 }

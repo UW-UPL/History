@@ -45,7 +45,7 @@ To run this command, enter the following into your terminal:
 $ python make_who.py
 ```
 
-This will update the `who.markdown` file for you.
+This will update the `who.md` file for you.
 
 If you want to be a good citizen _again_, run the Markdown output through a
 generator/viewer such as [this one](https://jbt.github.io/markdown-editor/#).

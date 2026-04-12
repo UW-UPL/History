@@ -3,7 +3,7 @@ A history of the [Undergraduate Projects Lab](http://uw-upl.github.io)
 
 ## `who`
 
-See [`who.markdown`](who/who.markdown) for a list of past UPLers.
+See [`who.md`](who/who.md) for a list of past UPLers.
 Contributions welcome!
 
 ## Sources
