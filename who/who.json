@@ -1321,6 +1321,16 @@
             "misc": "farewell and goodbye"
         },
         {
+            "name": "Chris Gottwaldt",
+            "username": "ChristopherGottwaldt",
+            "start": "Fall 2021",
+            "end": "Fall 2024",
+            "coord": true,
+            "link": "https://www.linkedin.com/in/christophergottwaldt/",
+            "jobs": "MGE, X-ES, DoIT",
+            "misc": "Thanks everyone :)"
+        },
+        {
             "name": "Noah Lessard",
             "username": "laurent",
             "start": "Fall 2022",
@@ -1331,14 +1341,15 @@
             "misc": "keep it going o7"
         },
         {
-            "name": "Chris Gottwaldt",
-            "username": "ChristopherGottwaldt",
-            "start": "Fall 2021",
-            "end": "Fall 2024",
+            "name": "Nico Salm",
+            "username": "salm",
+            "start": "Fall 2023",
+            "end": "Spring 2026",
             "coord": true,
-            "link": "https://www.linkedin.com/in/christophergottwaldt/",
-            "jobs": "MGE, X-ES, DoIT",
-            "misc": "Thanks everyone :)"
+            "link": "https://salm.dev/",
+            "jobs": "",
+            "misc": ""
         }
+
     ]
 }
