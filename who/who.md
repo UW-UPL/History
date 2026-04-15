@@ -133,4 +133,5 @@
 | `scharenbroch` | Lucas Scharenbroch | Fall 2023 | Spring 2024 | :x: | Acuity, Anduril | https://scharenbroch.dev | 🪂 |
 | `Mihir-Achyuta` | Mihir Achyuta | Spring 2023 | Spring 2024 | :white_check_mark: | SWE Intern @ Facebook, Rippling, ZipRecruiter \| SWE @ ZipRecruiter | mihirachyuta.me | 🛌 |
 | `davidteather` | David Teather | Fall 2024 | Spring 2024 | :white_check_mark: | Trendpop, Warner Music Group, Collab, CrowdStrike | https://www.linkedin.com/in/davidteather/ | 😎 |
+| `laurent` | Noah Lessard | Fall 2022 | Spring 2026 | :x: | IBM | https://www.linkedin.com/in/noah-lessard/ | keep it going o7 |
 
