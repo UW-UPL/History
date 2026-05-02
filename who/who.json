@@ -1349,6 +1349,16 @@
             "link": "https://salm.dev/",
             "jobs": "",
             "misc": ""
+        },
+        {
+            "name": "Oliver Ohrt",
+            "username": "lavanic",
+            "start": "Fall 2024",
+            "end": "Spring 2026",
+            "coord": true,
+            "link": "https://oliverohrt.com/",
+            "jobs": "Doohickey Engineer",
+            "misc": ""
         }
 
     ]
